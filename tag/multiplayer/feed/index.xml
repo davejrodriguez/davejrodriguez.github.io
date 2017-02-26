@@ -9,8 +9,8 @@
 
 <channel>
 	<title>multiplayer &#8211; Dave J Rodriguez</title>
-	<atom:link href="http://davejrodriguez.github.io/tag/multiplayer/feed/" rel="self" type="application/rss+xml" />
-	<link>http://davejrodriguez.github.io</link>
+	<atom:link href="https://davejrodriguez.github.io/tag/multiplayer/feed/" rel="self" type="application/rss+xml" />
+	<link>https://davejrodriguez.github.io</link>
 	<description>Web Designer/Developer, C# Programmer</description>
 	<lastBuildDate>Thu, 01 Dec 2016 02:58:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.7.2</generator>
 	<item>
 		<title>Beam</title>
-		<link>http://davejrodriguez.github.io/beam/</link>
+		<link>https://davejrodriguez.github.io/beam/</link>
 		<pubDate>Tue, 08 Nov 2016 01:12:50 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Applications]]></category>
@@ -28,13 +28,13 @@
 		<category><![CDATA[multiplayer]]></category>
 		<category><![CDATA[Unity3D]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=101</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=101</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[]]></content:encoded>
 			</item>
 		<item>
 		<title>Firefly</title>
-		<link>http://davejrodriguez.github.io/firefly/</link>
+		<link>https://davejrodriguez.github.io/firefly/</link>
 		<pubDate>Mon, 07 Nov 2016 17:49:41 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Applications]]></category>
@@ -44,13 +44,13 @@
 		<category><![CDATA[multiplayer]]></category>
 		<category><![CDATA[Unity3D]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=68</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=68</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[]]></content:encoded>
 			</item>
 		<item>
 		<title>REDgrid</title>
-		<link>http://davejrodriguez.github.io/redgrid/</link>
+		<link>https://davejrodriguez.github.io/redgrid/</link>
 		<pubDate>Mon, 07 Nov 2016 17:41:22 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Applications]]></category>
@@ -60,14 +60,14 @@
 		<category><![CDATA[web design]]></category>
 		<category><![CDATA[web development]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=56</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=56</guid>
 		<description><![CDATA[REDgrid was an initiative take by IDIA Lab to move their Second Life islands to OpenSimulator.]]></description>
 				<content:encoded><![CDATA[<p>REDgrid was an initiative take by IDIA Lab to move their Second Life islands to OpenSimulator.</p>
 ]]></content:encoded>
 			</item>
 		<item>
 		<title>Displaced Resonance</title>
-		<link>http://davejrodriguez.github.io/displaced-resonance/</link>
+		<link>https://davejrodriguez.github.io/displaced-resonance/</link>
 		<pubDate>Mon, 07 Nov 2016 16:01:59 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Applications]]></category>
@@ -77,7 +77,7 @@
 		<category><![CDATA[multiplayer]]></category>
 		<category><![CDATA[Unity3D]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=48</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=48</guid>
 		<description><![CDATA[Displaced Resonance is an hybrid art installation incorporating both a physical piece and virtual application. On the physical side, sixteen light and speaker towers are arranged in a grid. A thermal camera fixed above the grid relays the position of people who walk through. The towers react to the positions of&#8230; ]]></description>
 				<content:encoded><![CDATA[<div id="pl-48"><div class="panel-grid" id="pg-48-0" ><div class="panel-grid-cell" id="pgc-48-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child" id="panel-48-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">

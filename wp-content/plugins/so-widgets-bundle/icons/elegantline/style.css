@@ -1,9 +1,9 @@
 @font-face {
 	font-family: 'sow-elegantline';
-	src:url('http://davejrodriguez.github.io/wp-content/plugins/so-widgets-bundle/icons/elegantline/font/elegantline.eot?map0iz');
-	src:url('http://davejrodriguez.github.io/wp-content/plugins/so-widgets-bundle/icons/elegantline/font/elegantline.eot#iefixmap0iz') format('embedded-opentype'),
-	url('http://davejrodriguez.github.io/wp-content/plugins/so-widgets-bundle/icons/elegantline/font/elegantline.woff?map0iz') format('woff'),
-	url('http://davejrodriguez.github.io/wp-content/plugins/so-widgets-bundle/icons/elegantline/font/elegantline.ttf?map0iz') format('truetype');
+	src:url('https://davejrodriguez.github.io/wp-content/plugins/so-widgets-bundle/icons/elegantline/font/elegantline.eot?map0iz');
+	src:url('https://davejrodriguez.github.io/wp-content/plugins/so-widgets-bundle/icons/elegantline/font/elegantline.eot#iefixmap0iz') format('embedded-opentype'),
+	url('https://davejrodriguez.github.io/wp-content/plugins/so-widgets-bundle/icons/elegantline/font/elegantline.woff?map0iz') format('woff'),
+	url('https://davejrodriguez.github.io/wp-content/plugins/so-widgets-bundle/icons/elegantline/font/elegantline.ttf?map0iz') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }

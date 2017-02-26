@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Buffalo Bill &#8211; Dave J Rodriguez</title>
-	<atom:link href="http://davejrodriguez.github.io/tag/buffalo-bill/feed/" rel="self" type="application/rss+xml" />
-	<link>http://davejrodriguez.github.io</link>
+	<atom:link href="https://davejrodriguez.github.io/tag/buffalo-bill/feed/" rel="self" type="application/rss+xml" />
+	<link>https://davejrodriguez.github.io</link>
 	<description>Web Designer/Developer, C# Programmer</description>
 	<lastBuildDate>Thu, 01 Dec 2016 02:58:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,14 +19,14 @@
 	<generator>https://wordpress.org/?v=4.7.2</generator>
 	<item>
 		<title>Buffalo Bill&#8217;s Wild West</title>
-		<link>http://davejrodriguez.github.io/buffalo-bills-wild-west/</link>
+		<link>https://davejrodriguez.github.io/buffalo-bills-wild-west/</link>
 		<pubDate>Thu, 01 Dec 2016 02:49:22 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Applications]]></category>
 		<category><![CDATA[Buffalo Bill]]></category>
 		<category><![CDATA[Unity3D]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=144</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=144</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[<div id="pl-144"><div class="panel-grid" id="pg-144-0" ><div class="panel-grid-cell" id="pgc-144-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-144-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">

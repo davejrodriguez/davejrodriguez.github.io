@@ -9,8 +9,8 @@
 
 <channel>
 	<title>davejrodriguez &#8211; Dave J Rodriguez</title>
-	<atom:link href="http://davejrodriguez.github.io/author/davejrodriguez/feed/" rel="self" type="application/rss+xml" />
-	<link>http://davejrodriguez.github.io</link>
+	<atom:link href="https://davejrodriguez.github.io/author/davejrodriguez/feed/" rel="self" type="application/rss+xml" />
+	<link>https://davejrodriguez.github.io</link>
 	<description>Web Designer/Developer, C# Programmer</description>
 	<lastBuildDate>Thu, 01 Dec 2016 02:58:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.7.2</generator>
 	<item>
 		<title>Particle Demo</title>
-		<link>http://davejrodriguez.github.io/particle-demo/</link>
+		<link>https://davejrodriguez.github.io/particle-demo/</link>
 		<pubDate>Thu, 01 Dec 2016 02:58:51 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Applications]]></category>
@@ -28,7 +28,7 @@
 		<category><![CDATA[Oculus Rift]]></category>
 		<category><![CDATA[Unity3D]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=151</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=151</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[<div id="pl-151"><div class="panel-grid" id="pg-151-0" ><div class="panel-grid-cell" id="pgc-151-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-151-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
@@ -38,7 +38,7 @@
 			</item>
 		<item>
 		<title>Unity Mobile Controller</title>
-		<link>http://davejrodriguez.github.io/unity-mobile-controller/</link>
+		<link>https://davejrodriguez.github.io/unity-mobile-controller/</link>
 		<pubDate>Thu, 01 Dec 2016 02:56:44 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Applications]]></category>
@@ -46,7 +46,7 @@
 		<category><![CDATA[mobile]]></category>
 		<category><![CDATA[Unity3D]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=149</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=149</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[<div id="pl-149"><div class="panel-grid" id="pg-149-0" ><div class="panel-grid-cell" id="pgc-149-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-149-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
@@ -56,7 +56,7 @@
 			</item>
 		<item>
 		<title>Patient Simulator</title>
-		<link>http://davejrodriguez.github.io/patient-simulator/</link>
+		<link>https://davejrodriguez.github.io/patient-simulator/</link>
 		<pubDate>Thu, 01 Dec 2016 02:51:50 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Applications]]></category>
@@ -65,7 +65,7 @@
 		<category><![CDATA[simulation]]></category>
 		<category><![CDATA[Unity3D]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=147</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=147</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[<div id="pl-147"><div class="panel-grid" id="pg-147-0" ><div class="panel-grid-cell" id="pgc-147-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-147-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
@@ -75,14 +75,14 @@
 			</item>
 		<item>
 		<title>Buffalo Bill&#8217;s Wild West</title>
-		<link>http://davejrodriguez.github.io/buffalo-bills-wild-west/</link>
+		<link>https://davejrodriguez.github.io/buffalo-bills-wild-west/</link>
 		<pubDate>Thu, 01 Dec 2016 02:49:22 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Applications]]></category>
 		<category><![CDATA[Buffalo Bill]]></category>
 		<category><![CDATA[Unity3D]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=144</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=144</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[<div id="pl-144"><div class="panel-grid" id="pg-144-0" ><div class="panel-grid-cell" id="pgc-144-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-144-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
@@ -92,31 +92,31 @@
 			</item>
 		<item>
 		<title>SAVE</title>
-		<link>http://davejrodriguez.github.io/save/</link>
+		<link>https://davejrodriguez.github.io/save/</link>
 		<pubDate>Wed, 09 Nov 2016 03:16:12 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Web Design]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=111</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=111</guid>
 		<description><![CDATA[http://idialabprojects.org/save/ User: user Password: SAVE]]></description>
 				<content:encoded><![CDATA[<p>http://idialabprojects.org/<wbr />save/ User: user Password: SAVE</p>
 ]]></content:encoded>
 			</item>
 		<item>
 		<title>Wonders of Oz</title>
-		<link>http://davejrodriguez.github.io/wonders-of-oz/</link>
+		<link>https://davejrodriguez.github.io/wonders-of-oz/</link>
 		<pubDate>Wed, 09 Nov 2016 03:15:16 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Web Design]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=107</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=107</guid>
 		<description><![CDATA[http://idialabprojects.org/wondersofoz/]]></description>
 				<content:encoded><![CDATA[<p>http://idialabprojects.org/wondersofoz/</p>
 ]]></content:encoded>
 			</item>
 		<item>
 		<title>Beam</title>
-		<link>http://davejrodriguez.github.io/beam/</link>
+		<link>https://davejrodriguez.github.io/beam/</link>
 		<pubDate>Tue, 08 Nov 2016 01:12:50 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Applications]]></category>
@@ -125,13 +125,13 @@
 		<category><![CDATA[multiplayer]]></category>
 		<category><![CDATA[Unity3D]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=101</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=101</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[]]></content:encoded>
 			</item>
 		<item>
 		<title>Hero&#8217;s Horizons</title>
-		<link>http://davejrodriguez.github.io/heros-horizons/</link>
+		<link>https://davejrodriguez.github.io/heros-horizons/</link>
 		<pubDate>Mon, 07 Nov 2016 22:43:49 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Applications]]></category>
@@ -139,49 +139,49 @@
 		<category><![CDATA[Unity3D]]></category>
 		<category><![CDATA[video game]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=98</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=98</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[]]></content:encoded>
 			</item>
 		<item>
 		<title>REDgrid Informational Site</title>
-		<link>http://davejrodriguez.github.io/redgrid-informational-site/</link>
+		<link>https://davejrodriguez.github.io/redgrid-informational-site/</link>
 		<pubDate>Mon, 07 Nov 2016 22:38:02 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Web Design]]></category>
 		<category><![CDATA[web design]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=94</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=94</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[]]></content:encoded>
 			</item>
 		<item>
 		<title>Echo Informational Site</title>
-		<link>http://davejrodriguez.github.io/echo-informational-site/</link>
+		<link>https://davejrodriguez.github.io/echo-informational-site/</link>
 		<pubDate>Mon, 07 Nov 2016 22:37:27 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Web Design]]></category>
 		<category><![CDATA[web design]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=92</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=92</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[]]></content:encoded>
 			</item>
 		<item>
 		<title>Fashion Informational Site</title>
-		<link>http://davejrodriguez.github.io/fashion-informational-site/</link>
+		<link>https://davejrodriguez.github.io/fashion-informational-site/</link>
 		<pubDate>Mon, 07 Nov 2016 22:37:12 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Web Design]]></category>
 		<category><![CDATA[web design]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=78</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=78</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[]]></content:encoded>
 			</item>
 		<item>
 		<title>luvtaps</title>
-		<link>http://davejrodriguez.github.io/luvtaps/</link>
+		<link>https://davejrodriguez.github.io/luvtaps/</link>
 		<pubDate>Mon, 07 Nov 2016 17:54:40 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Web Design]]></category>
@@ -190,7 +190,7 @@
 		<category><![CDATA[web design]]></category>
 		<category><![CDATA[web development]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=71</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=71</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[<div id="pl-71"><div class="panel-grid" id="pg-71-0" ><div class="panel-grid-cell" id="pgc-71-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-71-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">

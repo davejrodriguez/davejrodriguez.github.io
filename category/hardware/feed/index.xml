@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Hardware &#8211; Dave J Rodriguez</title>
-	<atom:link href="http://davejrodriguez.github.io/category/hardware/feed/" rel="self" type="application/rss+xml" />
-	<link>http://davejrodriguez.github.io</link>
+	<atom:link href="https://davejrodriguez.github.io/category/hardware/feed/" rel="self" type="application/rss+xml" />
+	<link>https://davejrodriguez.github.io</link>
 	<description>Web Designer/Developer, C# Programmer</description>
 	<lastBuildDate>Thu, 01 Dec 2016 02:58:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.7.2</generator>
 	<item>
 		<title>Particle Demo</title>
-		<link>http://davejrodriguez.github.io/particle-demo/</link>
+		<link>https://davejrodriguez.github.io/particle-demo/</link>
 		<pubDate>Thu, 01 Dec 2016 02:58:51 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Applications]]></category>
@@ -28,7 +28,7 @@
 		<category><![CDATA[Oculus Rift]]></category>
 		<category><![CDATA[Unity3D]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=151</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=151</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[<div id="pl-151"><div class="panel-grid" id="pg-151-0" ><div class="panel-grid-cell" id="pgc-151-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-151-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
@@ -38,14 +38,14 @@
 			</item>
 		<item>
 		<title>Oculus Rift + Leap Motion</title>
-		<link>http://davejrodriguez.github.io/oculus-rift-leap-motion/</link>
+		<link>https://davejrodriguez.github.io/oculus-rift-leap-motion/</link>
 		<pubDate>Mon, 07 Nov 2016 17:45:28 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Hardware]]></category>
 		<category><![CDATA[infrared tracking]]></category>
 		<category><![CDATA[virtual reality]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=59</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=59</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[]]></content:encoded>
 			</item>

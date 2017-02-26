@@ -9,8 +9,8 @@
 
 <channel>
 	<title>fitbit &#8211; Dave J Rodriguez</title>
-	<atom:link href="http://davejrodriguez.github.io/tag/fitbit/feed/" rel="self" type="application/rss+xml" />
-	<link>http://davejrodriguez.github.io</link>
+	<atom:link href="https://davejrodriguez.github.io/tag/fitbit/feed/" rel="self" type="application/rss+xml" />
+	<link>https://davejrodriguez.github.io</link>
 	<description>Web Designer/Developer, C# Programmer</description>
 	<lastBuildDate>Thu, 01 Dec 2016 02:58:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.7.2</generator>
 	<item>
 		<title>luvtaps</title>
-		<link>http://davejrodriguez.github.io/luvtaps/</link>
+		<link>https://davejrodriguez.github.io/luvtaps/</link>
 		<pubDate>Mon, 07 Nov 2016 17:54:40 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Web Design]]></category>
@@ -28,7 +28,7 @@
 		<category><![CDATA[web design]]></category>
 		<category><![CDATA[web development]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=71</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=71</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[<div id="pl-71"><div class="panel-grid" id="pg-71-0" ><div class="panel-grid-cell" id="pgc-71-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-71-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">

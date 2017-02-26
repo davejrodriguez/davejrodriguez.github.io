@@ -9,8 +9,8 @@
 
 <channel>
 	<title>controller &#8211; Dave J Rodriguez</title>
-	<atom:link href="http://davejrodriguez.github.io/tag/controller/feed/" rel="self" type="application/rss+xml" />
-	<link>http://davejrodriguez.github.io</link>
+	<atom:link href="https://davejrodriguez.github.io/tag/controller/feed/" rel="self" type="application/rss+xml" />
+	<link>https://davejrodriguez.github.io</link>
 	<description>Web Designer/Developer, C# Programmer</description>
 	<lastBuildDate>Thu, 01 Dec 2016 02:58:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=4.7.2</generator>
 	<item>
 		<title>Unity Mobile Controller</title>
-		<link>http://davejrodriguez.github.io/unity-mobile-controller/</link>
+		<link>https://davejrodriguez.github.io/unity-mobile-controller/</link>
 		<pubDate>Thu, 01 Dec 2016 02:56:44 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Applications]]></category>
@@ -27,7 +27,7 @@
 		<category><![CDATA[mobile]]></category>
 		<category><![CDATA[Unity3D]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=149</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=149</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[<div id="pl-149"><div class="panel-grid" id="pg-149-0" ><div class="panel-grid-cell" id="pgc-149-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-149-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">

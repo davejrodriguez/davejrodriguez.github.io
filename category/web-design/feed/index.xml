@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Web Design &#8211; Dave J Rodriguez</title>
-	<atom:link href="http://davejrodriguez.github.io/category/web-design/feed/" rel="self" type="application/rss+xml" />
-	<link>http://davejrodriguez.github.io</link>
+	<atom:link href="https://davejrodriguez.github.io/category/web-design/feed/" rel="self" type="application/rss+xml" />
+	<link>https://davejrodriguez.github.io</link>
 	<description>Web Designer/Developer, C# Programmer</description>
 	<lastBuildDate>Thu, 01 Dec 2016 02:58:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,67 +19,67 @@
 	<generator>https://wordpress.org/?v=4.7.2</generator>
 	<item>
 		<title>SAVE</title>
-		<link>http://davejrodriguez.github.io/save/</link>
+		<link>https://davejrodriguez.github.io/save/</link>
 		<pubDate>Wed, 09 Nov 2016 03:16:12 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Web Design]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=111</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=111</guid>
 		<description><![CDATA[http://idialabprojects.org/save/ User: user Password: SAVE]]></description>
 				<content:encoded><![CDATA[<p>http://idialabprojects.org/<wbr />save/ User: user Password: SAVE</p>
 ]]></content:encoded>
 			</item>
 		<item>
 		<title>Wonders of Oz</title>
-		<link>http://davejrodriguez.github.io/wonders-of-oz/</link>
+		<link>https://davejrodriguez.github.io/wonders-of-oz/</link>
 		<pubDate>Wed, 09 Nov 2016 03:15:16 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Web Design]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=107</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=107</guid>
 		<description><![CDATA[http://idialabprojects.org/wondersofoz/]]></description>
 				<content:encoded><![CDATA[<p>http://idialabprojects.org/wondersofoz/</p>
 ]]></content:encoded>
 			</item>
 		<item>
 		<title>REDgrid Informational Site</title>
-		<link>http://davejrodriguez.github.io/redgrid-informational-site/</link>
+		<link>https://davejrodriguez.github.io/redgrid-informational-site/</link>
 		<pubDate>Mon, 07 Nov 2016 22:38:02 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Web Design]]></category>
 		<category><![CDATA[web design]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=94</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=94</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[]]></content:encoded>
 			</item>
 		<item>
 		<title>Echo Informational Site</title>
-		<link>http://davejrodriguez.github.io/echo-informational-site/</link>
+		<link>https://davejrodriguez.github.io/echo-informational-site/</link>
 		<pubDate>Mon, 07 Nov 2016 22:37:27 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Web Design]]></category>
 		<category><![CDATA[web design]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=92</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=92</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[]]></content:encoded>
 			</item>
 		<item>
 		<title>Fashion Informational Site</title>
-		<link>http://davejrodriguez.github.io/fashion-informational-site/</link>
+		<link>https://davejrodriguez.github.io/fashion-informational-site/</link>
 		<pubDate>Mon, 07 Nov 2016 22:37:12 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Web Design]]></category>
 		<category><![CDATA[web design]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=78</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=78</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[]]></content:encoded>
 			</item>
 		<item>
 		<title>luvtaps</title>
-		<link>http://davejrodriguez.github.io/luvtaps/</link>
+		<link>https://davejrodriguez.github.io/luvtaps/</link>
 		<pubDate>Mon, 07 Nov 2016 17:54:40 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Web Design]]></category>
@@ -88,7 +88,7 @@
 		<category><![CDATA[web design]]></category>
 		<category><![CDATA[web development]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=71</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=71</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[<div id="pl-71"><div class="panel-grid" id="pg-71-0" ><div class="panel-grid-cell" id="pgc-71-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-71-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
@@ -98,7 +98,7 @@
 			</item>
 		<item>
 		<title>Firefly</title>
-		<link>http://davejrodriguez.github.io/firefly/</link>
+		<link>https://davejrodriguez.github.io/firefly/</link>
 		<pubDate>Mon, 07 Nov 2016 17:49:41 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Applications]]></category>
@@ -108,13 +108,13 @@
 		<category><![CDATA[multiplayer]]></category>
 		<category><![CDATA[Unity3D]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=68</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=68</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[]]></content:encoded>
 			</item>
 		<item>
 		<title>REDgrid</title>
-		<link>http://davejrodriguez.github.io/redgrid/</link>
+		<link>https://davejrodriguez.github.io/redgrid/</link>
 		<pubDate>Mon, 07 Nov 2016 17:41:22 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Applications]]></category>
@@ -124,14 +124,14 @@
 		<category><![CDATA[web design]]></category>
 		<category><![CDATA[web development]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=56</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=56</guid>
 		<description><![CDATA[REDgrid was an initiative take by IDIA Lab to move their Second Life islands to OpenSimulator.]]></description>
 				<content:encoded><![CDATA[<p>REDgrid was an initiative take by IDIA Lab to move their Second Life islands to OpenSimulator.</p>
 ]]></content:encoded>
 			</item>
 		<item>
 		<title>Digital Hadrian&#8217;s Villa Project</title>
-		<link>http://davejrodriguez.github.io/digital-hadrians-villa-project/</link>
+		<link>https://davejrodriguez.github.io/digital-hadrians-villa-project/</link>
 		<pubDate>Mon, 07 Nov 2016 16:55:49 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Applications]]></category>
@@ -140,7 +140,7 @@
 		<category><![CDATA[web design]]></category>
 		<category><![CDATA[web development]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=51</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=51</guid>
 		<description><![CDATA[The Digital Hadrian's Villa Project was a multi-faceted project produced in a collaboration between IDIA Lab and the Virtual World Heritage Laboratory at Indiana University, directed by Dr. Bernard Frischer and funded by the National Science Foundation. The centerpiece of the project was a digital recreation of Hadrian's Villa in Unity3D. The&#8230; ]]></description>
 				<content:encoded><![CDATA[<div id="pl-51"><div class="panel-grid" id="pg-51-0" ><div class="panel-grid-cell" id="pgc-51-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-51-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
@@ -181,7 +181,7 @@
 			</item>
 		<item>
 		<title>Displaced Resonance</title>
-		<link>http://davejrodriguez.github.io/displaced-resonance/</link>
+		<link>https://davejrodriguez.github.io/displaced-resonance/</link>
 		<pubDate>Mon, 07 Nov 2016 16:01:59 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Applications]]></category>
@@ -191,7 +191,7 @@
 		<category><![CDATA[multiplayer]]></category>
 		<category><![CDATA[Unity3D]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=48</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=48</guid>
 		<description><![CDATA[Displaced Resonance is an hybrid art installation incorporating both a physical piece and virtual application. On the physical side, sixteen light and speaker towers are arranged in a grid. A thermal camera fixed above the grid relays the position of people who walk through. The towers react to the positions of&#8230; ]]></description>
 				<content:encoded><![CDATA[<div id="pl-48"><div class="panel-grid" id="pg-48-0" ><div class="panel-grid-cell" id="pgc-48-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child" id="panel-48-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
@@ -218,7 +218,7 @@
 			</item>
 		<item>
 		<title>IDIA Lab</title>
-		<link>http://davejrodriguez.github.io/idia-lab/</link>
+		<link>https://davejrodriguez.github.io/idia-lab/</link>
 		<pubDate>Mon, 07 Nov 2016 15:11:21 +0000</pubDate>
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 				<category><![CDATA[Web Design]]></category>
@@ -227,7 +227,7 @@
 		<category><![CDATA[web development]]></category>
 		<category><![CDATA[wordpress]]></category>
 
-		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=45</guid>
+		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=45</guid>
 		<description><![CDATA[One of my first large projects at the Institute for Digital Intermedia Art (IDIA Lab) was the migration and redesign of the institute's website. The institute used this site to publicize their projects and market their services to potential clients. Though a part of Ball State University, most of their&#8230; ]]></description>
 				<content:encoded><![CDATA[<div id="pl-45"><div class="panel-grid" id="pg-45-0" ><div class="panel-grid-cell" id="pgc-45-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child" id="panel-45-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
