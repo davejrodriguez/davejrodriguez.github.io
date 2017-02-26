@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wordpress &#8211; Dave J Rodriguez</title>
+	<atom:link href="http://davejrodriguez.github.io/tag/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>http://davejrodriguez.github.io</link>
+	<description>Web Designer/Developer, C# Programmer</description>
+	<lastBuildDate>Thu, 01 Dec 2016 02:58:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>IDIA Lab</title>
+		<link>http://davejrodriguez.github.io/idia-lab/</link>
+		<pubDate>Mon, 07 Nov 2016 15:11:21 +0000</pubDate>
+		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
+				<category><![CDATA[Web Design]]></category>
+		<category><![CDATA[IDIA Lab]]></category>
+		<category><![CDATA[web design]]></category>
+		<category><![CDATA[web development]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://davejrodriguez.github.io/?p=45</guid>
+		<description><![CDATA[One of my first large projects at the Institute for Digital Intermedia Art (IDIA Lab) was the migration and redesign of the institute's website. The institute used this site to publicize their projects and market their services to potential clients. Though a part of Ball State University, most of their&#8230; ]]></description>
+				<content:encoded><![CDATA[<div id="pl-45"><div class="panel-grid" id="pg-45-0" ><div class="panel-grid-cell" id="pgc-45-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child" id="panel-45-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<p>One of my first large projects at the Institute for Digital Intermedia Art (IDIA Lab) was the migration and redesign of the institute's website. The institute used this site to publicize their projects and market their services to potential clients. Though a part of Ball State University, most of their contracts came from outside the university and a strong web presence was essential.</p>
+<p>The site had first been built with Ruby on Rails, but only the initial developer knew how to add and change content. Seeing this, I knew a proper content management system would be beneficial to the lab's designers and editors. My job was to recreate the design in a WordPress theme, then migrate the site and domain name to JustHost. Five years later, IDIA Lab is still effectively using the site, content management system, and theme I set up.</p>
+</div>
+</div></div><div class="so-panel widget widget_sow-button panel-last-child" id="panel-45-0-0-1" data-index="1"><div class="so-widget-sow-button so-widget-sow-button-flat-d0a8a77b6f79"><div class="ow-button-base ow-button-align-center">
+
+		<a class="ow-button-hover" target="_blank" href="http://idialab.org/" >
+		<span>
+			<span class="sow-icon-elegantline" data-sow-icon="&#xe00c;" ></span>
+			Visit		</span>
+	</a>
+</div>
+</div></div></div></div></div>]]></content:encoded>
+			</item>
+	</channel>
+</rss>
