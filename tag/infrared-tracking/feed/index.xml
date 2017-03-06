@@ -12,11 +12,19 @@
 	<atom:link href="https://davejrodriguez.github.io/tag/infrared-tracking/feed/" rel="self" type="application/rss+xml" />
 	<link>https://davejrodriguez.github.io</link>
 	<description>Web Designer/Developer, C# Programmer</description>
-	<lastBuildDate>Thu, 01 Dec 2016 02:58:51 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Mar 2017 14:43:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.7.2</generator>
+
+<image>
+	<url>https://davejrodriguez.github.io/wp-content/uploads/2017/03/cropped-logo-32x32.png</url>
+	<title>infrared tracking &#8211; Dave J Rodriguez</title>
+	<link>https://davejrodriguez.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>ChromaChord</title>
 		<link>https://davejrodriguez.github.io/chromachord/</link>

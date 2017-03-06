@@ -12,11 +12,19 @@
 	<atom:link href="https://davejrodriguez.github.io/category/applications/feed/" rel="self" type="application/rss+xml" />
 	<link>https://davejrodriguez.github.io</link>
 	<description>Web Designer/Developer, C# Programmer</description>
-	<lastBuildDate>Thu, 01 Dec 2016 02:58:51 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Mar 2017 14:43:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.7.2</generator>
+
+<image>
+	<url>https://davejrodriguez.github.io/wp-content/uploads/2017/03/cropped-logo-32x32.png</url>
+	<title>Applications &#8211; Dave J Rodriguez</title>
+	<link>https://davejrodriguez.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Particle Demo</title>
 		<link>https://davejrodriguez.github.io/particle-demo/</link>
@@ -29,10 +37,12 @@
 		<category><![CDATA[Unity3D]]></category>
 
 		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=151</guid>
-		<description><![CDATA[]]></description>
+		<description><![CDATA[This was one of my first explorations into the hybrid of the Oculus Rift and the Leap Motion. It seemed like an obvious pairing at the time, because the Dev Kit version of the Oculus did not have any included controllers, but relied solely on an XBox controller, breaking any&#8230; ]]></description>
 				<content:encoded><![CDATA[<div id="pl-151"><div class="panel-grid" id="pg-151-0" ><div class="panel-grid-cell" id="pgc-151-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-151-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<p><iframe src="https://www.youtube.com/embed/JTWQFxMHtf4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>This was one of my first explorations into the hybrid of the Oculus Rift and the Leap Motion. It seemed like an obvious pairing at the time, because the Dev Kit version of the Oculus did not have any included controllers, but relied solely on an XBox controller, breaking any immersion inside the headset. A much more immersive and natural option would be to use your hands, which the Leap Motion allowed us to do.</p>
+<p>We designed and 3D printed brackets to mount the Leap Motion to the front of the Oculus Rift. I paired the Oculus Rift and Leap Motion SDKs within Unity and wrote an orbit script that made the particles float around the user's hands.</p>
 </div>
 </div></div></div></div></div>]]></content:encoded>
 			</item>
@@ -154,19 +164,6 @@
 	<p><iframe width="560" height="315" src="https://www.youtube.com/embed/DcQ8YEvmS0A" frameborder="0" allowfullscreen></iframe></p>
 </div>
 </div></div></div></div></div>]]></content:encoded>
-			</item>
-		<item>
-		<title>Virtual Buffalo Bill</title>
-		<link>https://davejrodriguez.github.io/virtual-buffalo-bill/</link>
-		<pubDate>Mon, 07 Nov 2016 17:46:53 +0000</pubDate>
-		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
-				<category><![CDATA[Applications]]></category>
-		<category><![CDATA[educational]]></category>
-		<category><![CDATA[Unity3D]]></category>
-
-		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=62</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[]]></content:encoded>
 			</item>
 		<item>
 		<title>REDgrid</title>
