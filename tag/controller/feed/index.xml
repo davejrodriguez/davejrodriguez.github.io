@@ -12,7 +12,7 @@
 	<atom:link href="https://davejrodriguez.github.io/tag/controller/feed/" rel="self" type="application/rss+xml" />
 	<link>https://davejrodriguez.github.io</link>
 	<description>Web Designer/Developer, C# Programmer</description>
-	<lastBuildDate>Sun, 05 Mar 2017 14:43:39 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 Mar 2017 01:41:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -36,10 +36,13 @@
 		<category><![CDATA[Unity3D]]></category>
 
 		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=149</guid>
-		<description><![CDATA[]]></description>
+		<description><![CDATA[The Unity Mobile Controller is a project I worked on in our Human Computer Interface lab. This experimental remote control project would allow anyone with a smartphone play splitscreen multiplayer in a Unity project. The control interface was displayed on the smartphone, while the game sans-interface would be displayed on&#8230; ]]></description>
 				<content:encoded><![CDATA[<div id="pl-149"><div class="panel-grid" id="pg-149-0" ><div class="panel-grid-cell" id="pgc-149-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-149-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<p><iframe src="https://www.youtube.com/embed/cWVWhYXNMz0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>The Unity Mobile Controller is a project I worked on in our Human Computer Interface lab. This experimental remote control project would allow anyone with a smartphone play splitscreen multiplayer in a Unity project.</p>
+<p>The control interface was displayed on the smartphone, while the game sans-interface would be displayed on the computer. Upon logging in and connecting, the phone would spawn and link to an avatar. Using multiplayer networking, the phone would send the joystick commands to the PC, where they'd be received and applied. Essentially, the system treated the avatar on the PC and the controller on the phone as two separate players, even though the tandem represented only one player.</p>
+<p>This idea was spawned as a solution to visitors' lack of easy interaction with physical installations of our art pieces. With this controller, anyone who downloaded the companion app and entered a pairing code could join the simulation.</p>
 </div>
 </div></div></div></div></div>]]></content:encoded>
 			</item>
