@@ -12,11 +12,11 @@
 	<atom:link href="https://davejrodriguez.github.io/tag/art/feed/" rel="self" type="application/rss+xml" />
 	<link>https://davejrodriguez.github.io</link>
 	<description>Web Designer/Developer, C# Programmer</description>
-	<lastBuildDate>Mon, 06 Mar 2017 01:41:40 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Apr 2017 01:09:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
 
 <image>
 	<url>https://davejrodriguez.github.io/wp-content/uploads/2017/03/cropped-logo-32x32.png</url>
@@ -55,7 +55,7 @@
 
 		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=48</guid>
 		<description><![CDATA[Displaced Resonance is an hybrid art installation incorporating both a physical piece and virtual application. On the physical side, sixteen light and speaker towers are arranged in a grid. A thermal camera fixed above the grid relays the position of people who walk through. The towers react to the positions of&#8230; ]]></description>
-				<content:encoded><![CDATA[<div id="pl-48"><div class="panel-grid" id="pg-48-0" ><div class="panel-grid-cell" id="pgc-48-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child" id="panel-48-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+				<content:encoded><![CDATA[<div id="pl-48"  class="panel-layout" ><div id="pg-48-0"  class="panel-grid panel-no-style" ><div id="pgc-48-0-0"  class="panel-grid-cell" ><div id="panel-48-0-0-0"class="so-panel widget widget_sow-editor panel-first-child"data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<p>Displaced Resonance is an hybrid art installation incorporating both a physical piece and virtual application. On the physical side, sixteen light and speaker towers are arranged in a grid. A thermal camera fixed above the grid relays the position of people who walk through. The towers react to the positions of visitors by changing the sound playing through the speakers and the hue of the lights. On the virtual side, there is a 3 dimensional representation of the physical piece. Visitors can use avatars to "walk" among the towers triggering a similar effect as in the physical world. Moreover, each side - physical and virtual - can see the affect of the other in their space. Visitors at the physical installation can see towers change to represent the virtual visitors walking through and vice versa.</p>
 <p>My role on this project was to program the virtual side and the communication between the two sides. This included:</p>
@@ -68,7 +68,7 @@
 </ul>
 <p>This project was presented at the Third Art and Science International Exhibition at the China Science and Technology Museum in Beijing. Due to the impracticality of testing this application in Beijing before the event, it was presented with minimal testing of the networking code. Even so, it worked as intended.</p>
 </div>
-</div></div><div class="so-panel widget widget_sow-button panel-last-child" id="panel-48-0-0-1" data-index="1"><div class="so-widget-sow-button so-widget-sow-button-flat-d0a8a77b6f79"><div class="ow-button-base ow-button-align-center">
+</div></div><div id="panel-48-0-0-1"class="so-panel widget widget_sow-button panel-last-child"data-index="1"><div class="so-widget-sow-button so-widget-sow-button-flat-d0a8a77b6f79"><div class="ow-button-base ow-button-align-center">
 
 		<a class="ow-button-hover" target="_blank" href="http://idialabprojects.org/displacedresonance/" >
 		<span>

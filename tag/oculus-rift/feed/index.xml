@@ -12,11 +12,11 @@
 	<atom:link href="https://davejrodriguez.github.io/tag/oculus-rift/feed/" rel="self" type="application/rss+xml" />
 	<link>https://davejrodriguez.github.io</link>
 	<description>Web Designer/Developer, C# Programmer</description>
-	<lastBuildDate>Mon, 06 Mar 2017 01:41:40 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Apr 2017 01:09:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
 
 <image>
 	<url>https://davejrodriguez.github.io/wp-content/uploads/2017/03/cropped-logo-32x32.png</url>
@@ -38,7 +38,7 @@
 
 		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=151</guid>
 		<description><![CDATA[This was one of my first explorations into the hybrid of the Oculus Rift and the Leap Motion. It seemed like an obvious pairing at the time, because the Dev Kit version of the Oculus did not have any included controllers, but relied solely on an XBox controller, breaking any&#8230; ]]></description>
-				<content:encoded><![CDATA[<div id="pl-151"><div class="panel-grid" id="pg-151-0" ><div class="panel-grid-cell" id="pgc-151-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-151-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+				<content:encoded><![CDATA[<div id="pl-151"  class="panel-layout" ><div id="pg-151-0"  class="panel-grid panel-no-style" ><div id="pgc-151-0-0"  class="panel-grid-cell" ><div id="panel-151-0-0-0"class="so-panel widget widget_sow-editor panel-first-child panel-last-child"data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<p><iframe src="https://www.youtube.com/embed/JTWQFxMHtf4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p>This was one of my first explorations into the hybrid of the Oculus Rift and the Leap Motion. It seemed like an obvious pairing at the time, because the Dev Kit version of the Oculus did not have any included controllers, but relied solely on an XBox controller, breaking any immersion inside the headset. A much more immersive and natural option would be to use your hands, which the Leap Motion allowed us to do.</p>

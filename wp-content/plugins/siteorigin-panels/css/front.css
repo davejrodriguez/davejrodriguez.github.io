@@ -1,21 +1,19 @@
-.panel-grid {
-  zoom: 1;
-}
-.panel-grid:before {
-  content: '';
-  display: block;
-}
-.panel-grid:after {
-  content: '';
-  display: table;
-  clear: both;
+.panel-grid.panel-no-style,
+.panel-grid.panel-has-style > .panel-row-style {
+  display: -webkit-flex;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: nowrap;
 }
 .panel-grid-cell {
   -ms-box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  min-height: 1em;
+}
+.panel-grid-cell .panel-cell-style {
+  height: 100%;
 }
 .panel-grid-cell .so-panel {
   zoom: 1;
@@ -46,4 +44,13 @@
   content: '';
   display: table;
   clear: both;
+}
+.siteorigin-panels-stretch {
+  margin-right: -1000px;
+  margin-left: -1000px;
+  padding-right: 1000px;
+  padding-left: 1000px;
+}
+body.siteorigin-panels-before-js {
+  overflow-x: hidden;
 }

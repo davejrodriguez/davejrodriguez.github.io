@@ -12,11 +12,11 @@
 	<atom:link href="https://davejrodriguez.github.io/category/web-design/feed/" rel="self" type="application/rss+xml" />
 	<link>https://davejrodriguez.github.io</link>
 	<description>Web Designer/Developer, C# Programmer</description>
-	<lastBuildDate>Mon, 06 Mar 2017 01:41:40 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Apr 2017 01:09:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
 
 <image>
 	<url>https://davejrodriguez.github.io/wp-content/uploads/2017/03/cropped-logo-32x32.png</url>
@@ -98,7 +98,7 @@
 
 		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=71</guid>
 		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<div id="pl-71"><div class="panel-grid" id="pg-71-0" ><div class="panel-grid-cell" id="pgc-71-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-71-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+				<content:encoded><![CDATA[<div id="pl-71"  class="panel-layout" ><div id="pg-71-0"  class="panel-grid panel-no-style" ><div id="pgc-71-0-0"  class="panel-grid-cell" ><div id="panel-71-0-0-0"class="so-panel widget widget_sow-editor panel-first-child panel-last-child"data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<p><iframe src="https://www.youtube.com/embed/_mtsCJb-UlU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 </div>
@@ -150,7 +150,7 @@
 
 		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=51</guid>
 		<description><![CDATA[The Digital Hadrian's Villa Project was a multi-faceted project produced in a collaboration between IDIA Lab and the Virtual World Heritage Laboratory at Indiana University, directed by Dr. Bernard Frischer and funded by the National Science Foundation. The centerpiece of the project was a digital recreation of Hadrian's Villa in Unity3D. The&#8230; ]]></description>
-				<content:encoded><![CDATA[<div id="pl-51"><div class="panel-grid" id="pg-51-0" ><div class="panel-grid-cell" id="pgc-51-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-51-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+				<content:encoded><![CDATA[<div id="pl-51"  class="panel-layout" ><div id="pg-51-0"  class="panel-grid panel-no-style" ><div id="pgc-51-0-0"  class="panel-grid-cell" ><div id="panel-51-0-0-0"class="so-panel widget widget_sow-editor panel-first-child panel-last-child"data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<p>The Digital Hadrian's Villa Project was a multi-faceted project produced in a collaboration between IDIA Lab and the Virtual World Heritage Laboratory at Indiana University, directed by Dr. Bernard Frischer and funded by the National Science Foundation. The centerpiece of the project was a digital recreation of Hadrian's Villa in Unity3D. The application linked to a companion website I developed that stored a vast repository of art, images, panoramas, videos, and architectural plans.</p>
 <p>My responsibilities were to:</p>
@@ -169,7 +169,7 @@
 </ul>
 <p> </p>
 </div>
-</div></div></div></div><div class="panel-grid" id="pg-51-1" ><div class="panel-grid-cell" id="pgc-51-1-0" ><div class="so-panel widget widget_sow-button panel-first-child panel-last-child" id="panel-51-1-0-0" data-index="1"><div class="so-widget-sow-button so-widget-sow-button-flat-d0a8a77b6f79"><div class="ow-button-base ow-button-align-center">
+</div></div></div></div><div id="pg-51-1"  class="panel-grid panel-no-style" ><div id="pgc-51-1-0"  class="panel-grid-cell" ><div id="panel-51-1-0-0"class="so-panel widget widget_sow-button panel-first-child panel-last-child"data-index="1"><div class="so-widget-sow-button so-widget-sow-button-flat-d0a8a77b6f79"><div class="ow-button-base ow-button-align-center">
 
 		<a class="ow-button-hover" target="_blank" href="http://vwhl.soic.indiana.edu/villa/" >
 		<span>
@@ -177,7 +177,7 @@
 			Visit		</span>
 	</a>
 </div>
-</div></div></div><div class="panel-grid-cell" id="pgc-51-1-1" ><div class="so-panel widget widget_sow-button panel-first-child panel-last-child" id="panel-51-1-1-0" data-index="2"><div class="so-widget-sow-button so-widget-sow-button-flat-d0a8a77b6f79"><div class="ow-button-base ow-button-align-center">
+</div></div></div><div id="pgc-51-1-1"  class="panel-grid-cell" ><div id="panel-51-1-1-0"class="so-panel widget widget_sow-button panel-first-child panel-last-child"data-index="2"><div class="so-widget-sow-button so-widget-sow-button-flat-d0a8a77b6f79"><div class="ow-button-base ow-button-align-center">
 
 		<a class="ow-button-hover" target="_blank" href="http://idialab.org/virtual-hadrians-villa/" >
 		<span>
@@ -201,7 +201,7 @@
 
 		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=48</guid>
 		<description><![CDATA[Displaced Resonance is an hybrid art installation incorporating both a physical piece and virtual application. On the physical side, sixteen light and speaker towers are arranged in a grid. A thermal camera fixed above the grid relays the position of people who walk through. The towers react to the positions of&#8230; ]]></description>
-				<content:encoded><![CDATA[<div id="pl-48"><div class="panel-grid" id="pg-48-0" ><div class="panel-grid-cell" id="pgc-48-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child" id="panel-48-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+				<content:encoded><![CDATA[<div id="pl-48"  class="panel-layout" ><div id="pg-48-0"  class="panel-grid panel-no-style" ><div id="pgc-48-0-0"  class="panel-grid-cell" ><div id="panel-48-0-0-0"class="so-panel widget widget_sow-editor panel-first-child"data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<p>Displaced Resonance is an hybrid art installation incorporating both a physical piece and virtual application. On the physical side, sixteen light and speaker towers are arranged in a grid. A thermal camera fixed above the grid relays the position of people who walk through. The towers react to the positions of visitors by changing the sound playing through the speakers and the hue of the lights. On the virtual side, there is a 3 dimensional representation of the physical piece. Visitors can use avatars to "walk" among the towers triggering a similar effect as in the physical world. Moreover, each side - physical and virtual - can see the affect of the other in their space. Visitors at the physical installation can see towers change to represent the virtual visitors walking through and vice versa.</p>
 <p>My role on this project was to program the virtual side and the communication between the two sides. This included:</p>
@@ -214,7 +214,7 @@
 </ul>
 <p>This project was presented at the Third Art and Science International Exhibition at the China Science and Technology Museum in Beijing. Due to the impracticality of testing this application in Beijing before the event, it was presented with minimal testing of the networking code. Even so, it worked as intended.</p>
 </div>
-</div></div><div class="so-panel widget widget_sow-button panel-last-child" id="panel-48-0-0-1" data-index="1"><div class="so-widget-sow-button so-widget-sow-button-flat-d0a8a77b6f79"><div class="ow-button-base ow-button-align-center">
+</div></div><div id="panel-48-0-0-1"class="so-panel widget widget_sow-button panel-last-child"data-index="1"><div class="so-widget-sow-button so-widget-sow-button-flat-d0a8a77b6f79"><div class="ow-button-base ow-button-align-center">
 
 		<a class="ow-button-hover" target="_blank" href="http://idialabprojects.org/displacedresonance/" >
 		<span>
@@ -237,12 +237,12 @@
 
 		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=45</guid>
 		<description><![CDATA[One of my first large projects at the Institute for Digital Intermedia Art (IDIA Lab) was the migration and redesign of the institute's website. The institute used this site to publicize their projects and market their services to potential clients. Though a part of Ball State University, most of their&#8230; ]]></description>
-				<content:encoded><![CDATA[<div id="pl-45"><div class="panel-grid" id="pg-45-0" ><div class="panel-grid-cell" id="pgc-45-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child" id="panel-45-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+				<content:encoded><![CDATA[<div id="pl-45"  class="panel-layout" ><div id="pg-45-0"  class="panel-grid panel-no-style" ><div id="pgc-45-0-0"  class="panel-grid-cell" ><div id="panel-45-0-0-0"class="so-panel widget widget_sow-editor panel-first-child"data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<p>One of my first large projects at the Institute for Digital Intermedia Art (IDIA Lab) was the migration and redesign of the institute's website. The institute used this site to publicize their projects and market their services to potential clients. Though a part of Ball State University, most of their contracts came from outside the university and a strong web presence was essential.</p>
 <p>The site had first been built with Ruby on Rails, but only the initial developer knew how to add and change content. Seeing this, I knew a proper content management system would be beneficial to the lab's designers and editors. My job was to recreate the design in a WordPress theme, then migrate the site and domain name to JustHost. Five years later, IDIA Lab is still effectively using the site, content management system, and theme I set up.</p>
 </div>
-</div></div><div class="so-panel widget widget_sow-button panel-last-child" id="panel-45-0-0-1" data-index="1"><div class="so-widget-sow-button so-widget-sow-button-flat-d0a8a77b6f79"><div class="ow-button-base ow-button-align-center">
+</div></div><div id="panel-45-0-0-1"class="so-panel widget widget_sow-button panel-last-child"data-index="1"><div class="so-widget-sow-button so-widget-sow-button-flat-d0a8a77b6f79"><div class="ow-button-base ow-button-align-center">
 
 		<a class="ow-button-hover" target="_blank" href="http://idialab.org/" >
 		<span>

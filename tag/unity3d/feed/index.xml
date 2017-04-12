@@ -12,11 +12,11 @@
 	<atom:link href="https://davejrodriguez.github.io/tag/unity3d/feed/" rel="self" type="application/rss+xml" />
 	<link>https://davejrodriguez.github.io</link>
 	<description>Web Designer/Developer, C# Programmer</description>
-	<lastBuildDate>Mon, 06 Mar 2017 01:41:40 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Apr 2017 01:09:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
 
 <image>
 	<url>https://davejrodriguez.github.io/wp-content/uploads/2017/03/cropped-logo-32x32.png</url>
@@ -38,7 +38,7 @@
 
 		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=151</guid>
 		<description><![CDATA[This was one of my first explorations into the hybrid of the Oculus Rift and the Leap Motion. It seemed like an obvious pairing at the time, because the Dev Kit version of the Oculus did not have any included controllers, but relied solely on an XBox controller, breaking any&#8230; ]]></description>
-				<content:encoded><![CDATA[<div id="pl-151"><div class="panel-grid" id="pg-151-0" ><div class="panel-grid-cell" id="pgc-151-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-151-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+				<content:encoded><![CDATA[<div id="pl-151"  class="panel-layout" ><div id="pg-151-0"  class="panel-grid panel-no-style" ><div id="pgc-151-0-0"  class="panel-grid-cell" ><div id="panel-151-0-0-0"class="so-panel widget widget_sow-editor panel-first-child panel-last-child"data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<p><iframe src="https://www.youtube.com/embed/JTWQFxMHtf4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p>This was one of my first explorations into the hybrid of the Oculus Rift and the Leap Motion. It seemed like an obvious pairing at the time, because the Dev Kit version of the Oculus did not have any included controllers, but relied solely on an XBox controller, breaking any immersion inside the headset. A much more immersive and natural option would be to use your hands, which the Leap Motion allowed us to do.</p>
@@ -58,7 +58,7 @@
 
 		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=149</guid>
 		<description><![CDATA[The Unity Mobile Controller is a project I worked on in our Human Computer Interface lab. This experimental remote control project would allow anyone with a smartphone play splitscreen multiplayer in a Unity project. The control interface was displayed on the smartphone, while the game sans-interface would be displayed on&#8230; ]]></description>
-				<content:encoded><![CDATA[<div id="pl-149"><div class="panel-grid" id="pg-149-0" ><div class="panel-grid-cell" id="pgc-149-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-149-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+				<content:encoded><![CDATA[<div id="pl-149"  class="panel-layout" ><div id="pg-149-0"  class="panel-grid panel-no-style" ><div id="pgc-149-0-0"  class="panel-grid-cell" ><div id="panel-149-0-0-0"class="so-panel widget widget_sow-editor panel-first-child panel-last-child"data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<p><iframe src="https://www.youtube.com/embed/cWVWhYXNMz0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p>The Unity Mobile Controller is a project I worked on in our Human Computer Interface lab. This experimental remote control project would allow anyone with a smartphone play splitscreen multiplayer in a Unity project.</p>
@@ -80,7 +80,7 @@
 
 		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=147</guid>
 		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<div id="pl-147"><div class="panel-grid" id="pg-147-0" ><div class="panel-grid-cell" id="pgc-147-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-147-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+				<content:encoded><![CDATA[<div id="pl-147"  class="panel-layout" ><div id="pg-147-0"  class="panel-grid panel-no-style" ><div id="pgc-147-0-0"  class="panel-grid-cell" ><div id="panel-147-0-0-0"class="so-panel widget widget_sow-editor panel-first-child panel-last-child"data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<p><iframe src="https://www.youtube.com/embed/BmBkCkDzYpE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 </div>
@@ -97,7 +97,7 @@
 
 		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=144</guid>
 		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<div id="pl-144"><div class="panel-grid" id="pg-144-0" ><div class="panel-grid-cell" id="pgc-144-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-144-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+				<content:encoded><![CDATA[<div id="pl-144"  class="panel-layout" ><div id="pg-144-0"  class="panel-grid panel-no-style" ><div id="pgc-144-0-0"  class="panel-grid-cell" ><div id="panel-144-0-0-0"class="so-panel widget widget_sow-editor panel-first-child panel-last-child"data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<p><iframe width="560" height="315" src="https://www.youtube.com/embed/X5CwtkJxsFs" frameborder="0" allowfullscreen></iframe></p>
 </div>
@@ -162,7 +162,7 @@
 
 		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=65</guid>
 		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<div id="pl-65"><div class="panel-grid" id="pg-65-0" ><div class="panel-grid-cell" id="pgc-65-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-65-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+				<content:encoded><![CDATA[<div id="pl-65"  class="panel-layout" ><div id="pg-65-0"  class="panel-grid panel-no-style" ><div id="pgc-65-0-0"  class="panel-grid-cell" ><div id="panel-65-0-0-0"class="so-panel widget widget_sow-editor panel-first-child panel-last-child"data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<p><iframe width="560" height="315" src="https://www.youtube.com/embed/DcQ8YEvmS0A" frameborder="0" allowfullscreen></iframe></p>
 </div>
@@ -182,7 +182,7 @@
 
 		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=48</guid>
 		<description><![CDATA[Displaced Resonance is an hybrid art installation incorporating both a physical piece and virtual application. On the physical side, sixteen light and speaker towers are arranged in a grid. A thermal camera fixed above the grid relays the position of people who walk through. The towers react to the positions of&#8230; ]]></description>
-				<content:encoded><![CDATA[<div id="pl-48"><div class="panel-grid" id="pg-48-0" ><div class="panel-grid-cell" id="pgc-48-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child" id="panel-48-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+				<content:encoded><![CDATA[<div id="pl-48"  class="panel-layout" ><div id="pg-48-0"  class="panel-grid panel-no-style" ><div id="pgc-48-0-0"  class="panel-grid-cell" ><div id="panel-48-0-0-0"class="so-panel widget widget_sow-editor panel-first-child"data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<p>Displaced Resonance is an hybrid art installation incorporating both a physical piece and virtual application. On the physical side, sixteen light and speaker towers are arranged in a grid. A thermal camera fixed above the grid relays the position of people who walk through. The towers react to the positions of visitors by changing the sound playing through the speakers and the hue of the lights. On the virtual side, there is a 3 dimensional representation of the physical piece. Visitors can use avatars to "walk" among the towers triggering a similar effect as in the physical world. Moreover, each side - physical and virtual - can see the affect of the other in their space. Visitors at the physical installation can see towers change to represent the virtual visitors walking through and vice versa.</p>
 <p>My role on this project was to program the virtual side and the communication between the two sides. This included:</p>
@@ -195,7 +195,7 @@
 </ul>
 <p>This project was presented at the Third Art and Science International Exhibition at the China Science and Technology Museum in Beijing. Due to the impracticality of testing this application in Beijing before the event, it was presented with minimal testing of the networking code. Even so, it worked as intended.</p>
 </div>
-</div></div><div class="so-panel widget widget_sow-button panel-last-child" id="panel-48-0-0-1" data-index="1"><div class="so-widget-sow-button so-widget-sow-button-flat-d0a8a77b6f79"><div class="ow-button-base ow-button-align-center">
+</div></div><div id="panel-48-0-0-1"class="so-panel widget widget_sow-button panel-last-child"data-index="1"><div class="so-widget-sow-button so-widget-sow-button-flat-d0a8a77b6f79"><div class="ow-button-base ow-button-align-center">
 
 		<a class="ow-button-hover" target="_blank" href="http://idialabprojects.org/displacedresonance/" >
 		<span>

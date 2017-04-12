@@ -12,11 +12,11 @@
 	<atom:link href="https://davejrodriguez.github.io/tag/buffalo-bill/feed/" rel="self" type="application/rss+xml" />
 	<link>https://davejrodriguez.github.io</link>
 	<description>Web Designer/Developer, C# Programmer</description>
-	<lastBuildDate>Mon, 06 Mar 2017 01:41:40 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Apr 2017 01:09:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
 
 <image>
 	<url>https://davejrodriguez.github.io/wp-content/uploads/2017/03/cropped-logo-32x32.png</url>
@@ -36,7 +36,7 @@
 
 		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=144</guid>
 		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<div id="pl-144"><div class="panel-grid" id="pg-144-0" ><div class="panel-grid-cell" id="pgc-144-0-0" ><div class="so-panel widget widget_sow-editor panel-first-child panel-last-child" id="panel-144-0-0-0" data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+				<content:encoded><![CDATA[<div id="pl-144"  class="panel-layout" ><div id="pg-144-0"  class="panel-grid panel-no-style" ><div id="pgc-144-0-0"  class="panel-grid-cell" ><div id="panel-144-0-0-0"class="so-panel widget widget_sow-editor panel-first-child panel-last-child"data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 	<p><iframe width="560" height="315" src="https://www.youtube.com/embed/X5CwtkJxsFs" frameborder="0" allowfullscreen></iframe></p>
 </div>
