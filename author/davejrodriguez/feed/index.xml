@@ -9,207 +9,414 @@
 
 <channel>
 	<title>davejrodriguez &#8211; Dave J Rodriguez</title>
-	<atom:link href="https://davejrodriguez.github.io/author/davejrodriguez/feed/" rel="self" type="application/rss+xml" />
-	<link>https://davejrodriguez.github.io</link>
-	<description>Web Designer/Developer, C# Programmer</description>
-	<lastBuildDate>Wed, 12 Apr 2017 01:09:02 +0000</lastBuildDate>
+	<atom:link href="/author/davejrodriguez/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Unity C# Developer</description>
+	<lastBuildDate>Thu, 08 Jul 2021 15:22:31 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.3</generator>
-
-<image>
-	<url>https://davejrodriguez.github.io/wp-content/uploads/2017/03/cropped-logo-32x32.png</url>
-	<title>davejrodriguez &#8211; Dave J Rodriguez</title>
-	<link>https://davejrodriguez.github.io</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
-		<title>Particle Demo</title>
-		<link>https://davejrodriguez.github.io/particle-demo/</link>
-		<pubDate>Thu, 01 Dec 2016 02:58:51 +0000</pubDate>
+		<title>CAVE</title>
+		<link>/cave/</link>
+					<comments>/cave/#respond</comments>
+		
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
-				<category><![CDATA[Applications]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Leap Motion]]></category>
-		<category><![CDATA[Oculus Rift]]></category>
-		<category><![CDATA[Unity3D]]></category>
+		<pubDate>Thu, 08 Jul 2021 15:18:03 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=158</guid>
 
-		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=151</guid>
-		<description><![CDATA[This was one of my first explorations into the hybrid of the Oculus Rift and the Leap Motion. It seemed like an obvious pairing at the time, because the Dev Kit version of the Oculus did not have any included controllers, but relied solely on an XBox controller, breaking any&#8230; ]]></description>
-				<content:encoded><![CDATA[<div id="pl-151"  class="panel-layout" ><div id="pg-151-0"  class="panel-grid panel-no-style" ><div id="pgc-151-0-0"  class="panel-grid-cell" ><div id="panel-151-0-0-0"class="so-panel widget widget_sow-editor panel-first-child panel-last-child"data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
-<div class="siteorigin-widget-tinymce textwidget">
-	<p><iframe src="https://www.youtube.com/embed/JTWQFxMHtf4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
-<p>This was one of my first explorations into the hybrid of the Oculus Rift and the Leap Motion. It seemed like an obvious pairing at the time, because the Dev Kit version of the Oculus did not have any included controllers, but relied solely on an XBox controller, breaking any immersion inside the headset. A much more immersive and natural option would be to use your hands, which the Leap Motion allowed us to do.</p>
-<p>We designed and 3D printed brackets to mount the Leap Motion to the front of the Oculus Rift. I paired the Oculus Rift and Leap Motion SDKs within Unity and wrote an orbit script that made the particles float around the user's hands.</p>
-</div>
-</div></div></div></div></div>]]></content:encoded>
-			</item>
-		<item>
-		<title>Unity Mobile Controller</title>
-		<link>https://davejrodriguez.github.io/unity-mobile-controller/</link>
-		<pubDate>Thu, 01 Dec 2016 02:56:44 +0000</pubDate>
-		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
-				<category><![CDATA[Applications]]></category>
-		<category><![CDATA[controller]]></category>
-		<category><![CDATA[mobile]]></category>
-		<category><![CDATA[Unity3D]]></category>
+					<description><![CDATA[CAVE is an immersive 270° panorama screen primarily used for presentations to large groups of students.&#160;OmniFocus projection&#160;maximizes the shadow-free zone in our installation of&#160;the Elumenati‘s&#160;8m GeoDome Panorama, so up to 40 people can share the space. Without headsets, the shared space sets the stage for spontaneous interactions with the content&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>CAVE is an immersive 270° panorama screen primarily used for presentations to large groups of students.&nbsp;<a href="https://www.elumenati.com/products/components/projectors/">OmniFocus projection</a>&nbsp;maximizes the shadow-free zone in our installation of&nbsp;<a href="https://www.elumenati.com/">the Elumenati</a>‘s&nbsp;<a href="https://www.elumenati.com/product/panorama/">8m GeoDome Panorama</a>, so up to 40 people can share the space. Without headsets, the shared space sets the stage for spontaneous interactions with the content and one another. It’s also logistically smoother than managing 40 headsets at once, especially post-pandemic.</p>
 
-		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=149</guid>
-		<description><![CDATA[The Unity Mobile Controller is a project I worked on in our Human Computer Interface lab. This experimental remote control project would allow anyone with a smartphone play splitscreen multiplayer in a Unity project. The control interface was displayed on the smartphone, while the game sans-interface would be displayed on&#8230; ]]></description>
-				<content:encoded><![CDATA[<div id="pl-149"  class="panel-layout" ><div id="pg-149-0"  class="panel-grid panel-no-style" ><div id="pgc-149-0-0"  class="panel-grid-cell" ><div id="panel-149-0-0-0"class="so-panel widget widget_sow-editor panel-first-child panel-last-child"data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
-<div class="siteorigin-widget-tinymce textwidget">
-	<p><iframe src="https://www.youtube.com/embed/cWVWhYXNMz0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
-<p>The Unity Mobile Controller is a project I worked on in our Human Computer Interface lab. This experimental remote control project would allow anyone with a smartphone play splitscreen multiplayer in a Unity project.</p>
-<p>The control interface was displayed on the smartphone, while the game sans-interface would be displayed on the computer. Upon logging in and connecting, the phone would spawn and link to an avatar. Using multiplayer networking, the phone would send the joystick commands to the PC, where they'd be received and applied. Essentially, the system treated the avatar on the PC and the controller on the phone as two separate players, even though the tandem represented only one player.</p>
-<p>This idea was spawned as a solution to visitors' lack of easy interaction with physical installations of our art pieces. With this controller, anyone who downloaded the companion app and entered a pairing code could join the simulation.</p>
-</div>
-</div></div></div></div></div>]]></content:encoded>
-			</item>
-		<item>
-		<title>Patient Simulator</title>
-		<link>https://davejrodriguez.github.io/patient-simulator/</link>
-		<pubDate>Thu, 01 Dec 2016 02:51:50 +0000</pubDate>
-		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
-				<category><![CDATA[Applications]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[patient]]></category>
-		<category><![CDATA[simulation]]></category>
-		<category><![CDATA[Unity3D]]></category>
 
-		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=147</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<div id="pl-147"  class="panel-layout" ><div id="pg-147-0"  class="panel-grid panel-no-style" ><div id="pgc-147-0-0"  class="panel-grid-cell" ><div id="panel-147-0-0-0"class="so-panel widget widget_sow-editor panel-first-child panel-last-child"data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
-<div class="siteorigin-widget-tinymce textwidget">
-	<p><iframe src="https://www.youtube.com/embed/BmBkCkDzYpE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
-</div>
-</div></div></div></div></div>]]></content:encoded>
-			</item>
-		<item>
-		<title>Buffalo Bill&#8217;s Wild West</title>
-		<link>https://davejrodriguez.github.io/buffalo-bills-wild-west/</link>
-		<pubDate>Thu, 01 Dec 2016 02:49:22 +0000</pubDate>
-		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
-				<category><![CDATA[Applications]]></category>
-		<category><![CDATA[Buffalo Bill]]></category>
-		<category><![CDATA[Unity3D]]></category>
 
-		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=144</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<div id="pl-144"  class="panel-layout" ><div id="pg-144-0"  class="panel-grid panel-no-style" ><div id="pgc-144-0-0"  class="panel-grid-cell" ><div id="panel-144-0-0-0"class="so-panel widget widget_sow-editor panel-first-child panel-last-child"data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
-<div class="siteorigin-widget-tinymce textwidget">
-	<p><iframe width="560" height="315" src="https://www.youtube.com/embed/X5CwtkJxsFs" frameborder="0" allowfullscreen></iframe></p>
-</div>
-</div></div></div></div></div>]]></content:encoded>
-			</item>
-		<item>
-		<title>SAVE</title>
-		<link>https://davejrodriguez.github.io/save/</link>
-		<pubDate>Wed, 09 Nov 2016 03:16:12 +0000</pubDate>
-		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
-				<category><![CDATA[Web Design]]></category>
+<p>Another use case for the CAVE is as part of our virtual production pipeline, using the Elumenati’s <a href="https://www.elumenati.com/product/worldviewer/">WorldViewer</a> and <a href="https://www.elumenati.com/product/omnity/">Omnity</a> plugin for the Unity game engine. This allows us to collaborate inside the 3D environment and demo content for clients.</p>
 
-		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=111</guid>
-		<description><![CDATA[http://idialabprojects.org/save/ User: user Password: SAVE]]></description>
-				<content:encoded><![CDATA[<p>http://idialabprojects.org/<wbr />save/ User: user Password: SAVE</p>
+
+
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="768" src="/wp-content/uploads/2021/07/IMG_4705-scaled-1-1024x768.jpg" alt="" data-id="159" data-full-url="/wp-content/uploads/2021/07/IMG_4705-scaled-1.jpg" data-link="/?attachment_id=159" class="wp-image-159" srcset="/wp-content/uploads/2021/07/IMG_4705-scaled-1-1024x768.jpg 1024w, /wp-content/uploads/2021/07/IMG_4705-scaled-1-300x225.jpg 300w, /wp-content/uploads/2021/07/IMG_4705-scaled-1-768x576.jpg 768w, /wp-content/uploads/2021/07/IMG_4705-scaled-1-1536x1152.jpg 1536w, /wp-content/uploads/2021/07/IMG_4705-scaled-1-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="768" src="/wp-content/uploads/2021/07/IMG_4706-scaled-1-1024x768.jpg" alt="" data-id="160" data-full-url="/wp-content/uploads/2021/07/IMG_4706-scaled-1.jpg" data-link="/?attachment_id=160" class="wp-image-160" srcset="/wp-content/uploads/2021/07/IMG_4706-scaled-1-1024x768.jpg 1024w, /wp-content/uploads/2021/07/IMG_4706-scaled-1-300x225.jpg 300w, /wp-content/uploads/2021/07/IMG_4706-scaled-1-768x576.jpg 768w, /wp-content/uploads/2021/07/IMG_4706-scaled-1-1536x1152.jpg 1536w, /wp-content/uploads/2021/07/IMG_4706-scaled-1-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="768" src="/wp-content/uploads/2021/07/IMG_4711-scaled-1-1024x768.jpg" alt="" data-id="161" data-full-url="/wp-content/uploads/2021/07/IMG_4711-scaled-1.jpg" data-link="/?attachment_id=161" class="wp-image-161" srcset="/wp-content/uploads/2021/07/IMG_4711-scaled-1-1024x768.jpg 1024w, /wp-content/uploads/2021/07/IMG_4711-scaled-1-300x225.jpg 300w, /wp-content/uploads/2021/07/IMG_4711-scaled-1-768x576.jpg 768w, /wp-content/uploads/2021/07/IMG_4711-scaled-1-1536x1152.jpg 1536w, /wp-content/uploads/2021/07/IMG_4711-scaled-1-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="768" src="/wp-content/uploads/2021/07/IMG_4714-scaled-1-1024x768.jpg" alt="" data-id="162" data-full-url="/wp-content/uploads/2021/07/IMG_4714-scaled-1.jpg" data-link="/?attachment_id=162" class="wp-image-162" srcset="/wp-content/uploads/2021/07/IMG_4714-scaled-1-1024x768.jpg 1024w, /wp-content/uploads/2021/07/IMG_4714-scaled-1-300x225.jpg 300w, /wp-content/uploads/2021/07/IMG_4714-scaled-1-768x576.jpg 768w, /wp-content/uploads/2021/07/IMG_4714-scaled-1-1536x1152.jpg 1536w, /wp-content/uploads/2021/07/IMG_4714-scaled-1-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="768" src="/wp-content/uploads/2021/07/IMG_4717-scaled-1-1024x768.jpg" alt="" data-id="163" data-full-url="/wp-content/uploads/2021/07/IMG_4717-scaled-1.jpg" data-link="/?attachment_id=163" class="wp-image-163" srcset="/wp-content/uploads/2021/07/IMG_4717-scaled-1-1024x768.jpg 1024w, /wp-content/uploads/2021/07/IMG_4717-scaled-1-300x225.jpg 300w, /wp-content/uploads/2021/07/IMG_4717-scaled-1-768x576.jpg 768w, /wp-content/uploads/2021/07/IMG_4717-scaled-1-1536x1152.jpg 1536w, /wp-content/uploads/2021/07/IMG_4717-scaled-1-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+
+
+
+<p>A vendor and partner since 2018, the Elumenati is a design and engineering firm creating innovative solutions for immersive visualization. With nearly twenty years as leaders in the field, their mission is to develop elegant, effective systems and novel applications of immersion and interactivity, building VR domes and social, collaborative spaces for XR experiences.</p>
 ]]></content:encoded>
+					
+					<wfw:commentRss>/cave/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
 			</item>
 		<item>
-		<title>Wonders of Oz</title>
-		<link>https://davejrodriguez.github.io/wonders-of-oz/</link>
-		<pubDate>Wed, 09 Nov 2016 03:15:16 +0000</pubDate>
+		<title>NSF Virtual Teaching Simulator</title>
+		<link>/nsf-virtual-teaching-simulator/</link>
+					<comments>/nsf-virtual-teaching-simulator/#respond</comments>
+		
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
-				<category><![CDATA[Web Design]]></category>
+		<pubDate>Thu, 08 Jul 2021 15:09:13 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=156</guid>
 
-		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=107</guid>
-		<description><![CDATA[http://idialabprojects.org/wondersofoz/]]></description>
-				<content:encoded><![CDATA[<p>http://idialabprojects.org/wondersofoz/</p>
+					<description><![CDATA[College of Architecture and Planning’s IDIA Lab creates technological innovation in the arts, sciences, and humanities. The Lab engages students, staff, scholars and clients in collaborative projects including 3D, virtual reality and mobile applications. This newsletter includes updates on current IDIA Lab projects including an augmented reality visitor experience application&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>College of Architecture and Planning’s IDIA Lab creates technological innovation in the arts, sciences, and humanities. The Lab engages students, staff, scholars and clients in collaborative projects including 3D, virtual reality and mobile applications. This newsletter includes updates on current IDIA Lab projects including an augmented reality visitor experience application for Mesa Verde National Park, a publication on our Roman archeology celestial alignment research, a multiuser simulation for understand aspects of wellness in Amazon’s Lumberyard game engine, and a $3 million dollar NSF grant in which IDIA Lab was selected by Massachusetts Institute of Technology, Educational Testing Services and Indiana University to create simulations for elementary math and science classrooms.</p>
+
+
+
+<p>While the COVID-19 pandemic has had a major effect on PK-12 classrooms, it has also affected opportunities for preservice teachers to gain practical teaching experience. Responding to this problem, School of Education faculty Meredith Park Rogers and Adam Maltese, along with Dionne Cross Francis of the University of North Carolina at Chapel Hill, an affiliate faculty member of IU, have begun work on a project with collaborators from ETS, Towson University and Massachusetts Institute of Technology, where they will design and study an online suite of practice-based teaching activities intended to support mathematics and science preservice teachers in honing their skills for facilitating argumentation-focused discussions.</p>
+
+
+
+<p>This project, funded by a grant for over $3 million from the National Science Foundation (Grant 2037983), will run from 2020-2023. ETS serves as the lead organization for the project, titled Online Practice Suite (OPS): Practice Spaces, Simulations and Virtual Reality Environments for Preservice Teachers to Learn to Facilitate Argumentation Discussions in Mathematics and Science.</p>
+
+
+
+<p>The OPS consists of a coordinated set of online practice-based teaching activities that include game-based practice spaces, small-group avatar-based simulations, and a virtual reality classroom. The activities are designed to be complemented with targeted feedback and support from teacher educators.</p>
+
+
+
+<p>With the COVID-19 pandemic increasingly pushing K-12 schools and universities across the nation to adopt online approaches, there is an immediate need for finding effective methods for preservice teachers to practice teaching even if traditional school-based teaching experiences are less available.</p>
+
+
+
+<p>Even without pandemic-related restrictions, learning how to teach effectively demands that preservice teachers have robust, authentic and consistent opportunities to engage in the work of teaching—ideally across different contexts with diverse student populations and for varied purposes.</p>
+
+
+
+<p>Over the next three years, the OPS research team will work with mathematics and science teacher educators to design, test, and refine the full suite of online practice-based teaching activities. Findings will be used to understand the mechanisms that support preservice teachers’ learning within and across the OPS activities and to document an emergent set of best practices for supporting preservice teachers’ improvement in this ambitious teaching practice over time. The OPS will be accompanied by support materials to help teacher educators use and integrate the activities into teacher education courses, including online and face-to-face learning contexts. Both elementary and middle/secondary school mathematics and science scenarios will be developed for the OPS.</p>
+
+
+
+<p>The IU faculty will work with the Institute for Digital Intermedia Arts (IDIA Lab) at Ball State University to develop an immersive virtual reality environment that will situate teachers in learning to navigate a whole-class discussion with students. This aspect of the OPS is referred to as the Virtual Teacher Simulator (VTS). In these simulations, preservice teachers will move beyond the one-on-one and small-group interactions of the other two OPS activities and begin to put their skills together to teach a full classroom of virtual student avatars. Each preservice teacher will have the opportunity to move around the classroom and engage with the virtual student avatars just as though they were in a real classroom. Additionally, they will receive feedback from a mathematics or science teacher educator (i.e., coach) in order to continue to improve their practice.</p>
+
+
+
+<p>As Park Rogers explains, “The VTS context especially affords preservice teachers multiple opportunities to rehearse their teaching within a short time span, without disrupting learning in a real classroom, all while receiving immediate and expert feedback from specialized mathematics and science teacher educators. Furthermore, incorporating real-time feedback and opportunities for multiple rehearsals, all within an immersive whole class context, will allow preservice teachers to take risks in their practice and try out novel pedagogical moves that they may not feel secure enough, or have opportunities, to try in an actual classroom.”</p>
+
+
+
+<p>“We must find a way to continue to prepare high-quality math and science teachers through this pandemic and beyond,” says Park Rogers. “Through this collaboration, we hope to offer teacher educators and their preservice student teachers a solution to the current dilemma the global pandemic of COVID-19 has created, and also alternative or supplementary methods for targeting core teaching practices even when we are able to safely return to classrooms to work with real children.”</p>
+
+
+
+<p>This material is based upon work supported by the National Science Foundation under Grant 2037983. The opinions expressed are those of the author and do not necessarily represent views of the National Science Foundation.</p>
+
+
+
+<p>By Catherine Winkler, Indiana University.</p>
 ]]></content:encoded>
+					
+					<wfw:commentRss>/nsf-virtual-teaching-simulator/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
 			</item>
 		<item>
-		<title>Beam</title>
-		<link>https://davejrodriguez.github.io/beam/</link>
-		<pubDate>Tue, 08 Nov 2016 01:12:50 +0000</pubDate>
+		<title>Engaging Technology II: Art + Science</title>
+		<link>/engaging-technology-ii-art-science/</link>
+					<comments>/engaging-technology-ii-art-science/#respond</comments>
+		
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
-				<category><![CDATA[Applications]]></category>
-		<category><![CDATA[framework]]></category>
-		<category><![CDATA[IDIA Lab]]></category>
-		<category><![CDATA[multiplayer]]></category>
-		<category><![CDATA[Unity3D]]></category>
+		<pubDate>Thu, 08 Jul 2021 15:08:41 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=154</guid>
 
-		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=101</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[The interplay of art and science—a concept at least as old as Leonardo da Vinci—is the focus of “Engaging Technology II,” an exhibition at Ball State University’s David Owsley Museum of Art which ran September 28, 2017 through December 22, 2017. Museum patrons experienced a selection of work from internationally&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>The interplay of art and science—a concept at least as old as Leonardo da Vinci—is the focus of “Engaging Technology II,” an exhibition at Ball State University’s David Owsley Museum of Art which ran September 28, 2017 through December 22, 2017. Museum patrons experienced a selection of work from internationally renowned artists whose explorations on the topic include installations, code art (artwork generated by computer programming), art/science, augmented reality and human-computer interaction.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Engaging Technology II  Art + Science" width="770" height="433" src="https://www.youtube.com/embed/Bn1DtA3EBFM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>The exhibition was curated by Ball State’s John Fillwalk, director of the Institute for Digital Intermedia Arts (IDIA Lab) in the College of Architecture and Planning and is both a sequel and a new concept, according to Robert La France, the museum’s director. This exhibit builds on the success of a prior exhibition curated by Fillwalk, that examined the emergence of the genre of Intermedia Art, with a particular focus on the intersection of technology and artmaking. The new show shifts the curatorial emphasis on STEAM – science, technology, engineering, arts and mathematics.</p>
+
+
+
+<p>This exhibition continues to position Ball State as an international center of STEAM innovation. A goal of Engaging Technology II was to invite artists exploring the edges of art and science into discourse within our community—advancing our University’s conversation regarding interdisciplinary collaboration and innovation. This collection of artists examines various aspects of the physical and life sciences, from code and biology to chemistry and physics.</p>
+
+
+
+<p>Among those individuals whose work is featured in the exhibition is Adam Brown, an associate professor at Michigan State University. His live biochemical installation, The Great Work of the Metal Lover is a work that sits at the intersection of art, science and alchemy.&nbsp;“It uses microbiology as a technique to solve the mystery of the philosopher’s stone,” said Brown, who described the centuries-old “stone” as a legendary substance sought by alchemists who believed it capable of turning metals like mercury into gold and silver.&nbsp;</p>
+
+
+
+<p>His installation uses custom lab equipment to introduce a “highly specialized” bacterium into an engineered atmosphere, turning toxic gold chloride into usable 24K gold over time during the course of the show. “By the end of the exhibition,&nbsp;the process will produce enough gold to put in the palm of your hand,” Brown said.</p>
+
+
+
+<p>Other innovative contributors to “Engaging Technology II” include code artist Casey Raes; composer and visual artist Tristian Perich; and Evelina Domnitch and Dmitry Gelfand, European-Russian artists who create sensory immersion environments that merge physics, chemistry and computer science with uncanny philosophical practices.&nbsp;</p>
+
+
+
+<p>“10000 Peacock Feathers in Foaming Acid” is Evelina Domnitch and Dmitry Gelfand’s live, audiovisual performance which was presented on the fulldome projection screen of Ball State’s Charles W. Brown Planetarium. The artwork uses a penetrating laser beam to scan the surface of soap bubbles, the behavior of which model the unique properties of<br>cell membranes.&nbsp;</p>
+
+
+
+<p>Throughout the run of Engaging Technology II, a series of invited performances, lectures and workshops were scheduled on campus and in the Muncie community to enhance the exhibition’s reach. Classes, workshops, lectures and family events were offered for local<br>and regional audiences.&nbsp;</p>
+
+
+
+<p>By Gail Werner, BSU Media Strategist<br>Et al.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/engaging-technology-ii-art-science/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
 			</item>
 		<item>
-		<title>Hero&#8217;s Horizons</title>
-		<link>https://davejrodriguez.github.io/heros-horizons/</link>
-		<pubDate>Mon, 07 Nov 2016 22:43:49 +0000</pubDate>
+		<title>Virtual Companion: Columbus</title>
+		<link>/virtual-companion-columbus/</link>
+					<comments>/virtual-companion-columbus/#respond</comments>
+		
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
-				<category><![CDATA[Applications]]></category>
-		<category><![CDATA[educational]]></category>
-		<category><![CDATA[Unity3D]]></category>
-		<category><![CDATA[video game]]></category>
+		<pubDate>Thu, 08 Jul 2021 15:07:25 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=148</guid>
 
-		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=98</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[IDIA Lab – in collaboration with BSU Assistant Professor of Architecture, Kristin Barry – has&#160; designed the cultural heritage mobile application, Virtual Columbus Experience – allowing users to virtually tour the rich architectural history of Columbus, Indiana. This locative mobile app was produced with fellowship support of Ball State University’s&#160;Digital&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>IDIA Lab – in collaboration with BSU Assistant Professor of Architecture, Kristin Barry – has&nbsp; designed the cultural heritage mobile application, Virtual Columbus Experience – allowing users to virtually tour the rich architectural history of Columbus, Indiana. This locative mobile app was produced with fellowship support of Ball State University’s&nbsp;<a href="https://bsudsl.org/">Digital Scholarship Lab</a>.</p>
+
+
+
+<p>Though a relatively small city, Columbus has made itself a cradle of modern architecture, commissioning many buildings and public works since the middle of the 20th century. The number of landmark buildings and notable architects to have worked in the city has earned it the nickname “Athens on the Prairie.”</p>
+
+
+
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="271" height="485" src="/wp-content/uploads/2021/07/cve.png" alt="" data-id="149" data-full-url="/wp-content/uploads/2021/07/cve.png" data-link="/?attachment_id=149" class="wp-image-149" srcset="/wp-content/uploads/2021/07/cve.png 271w, /wp-content/uploads/2021/07/cve-168x300.png 168w" sizes="(max-width: 271px) 100vw, 271px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="276" height="486" src="/wp-content/uploads/2021/07/cve-eliel.png" alt="" data-id="150" data-full-url="/wp-content/uploads/2021/07/cve-eliel.png" data-link="/?attachment_id=150" class="wp-image-150" srcset="/wp-content/uploads/2021/07/cve-eliel.png 276w, /wp-content/uploads/2021/07/cve-eliel-170x300.png 170w" sizes="(max-width: 276px) 100vw, 276px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="273" height="482" src="/wp-content/uploads/2021/07/cve-fcc.png" alt="" data-id="151" data-full-url="/wp-content/uploads/2021/07/cve-fcc.png" data-link="/?attachment_id=151" class="wp-image-151" srcset="/wp-content/uploads/2021/07/cve-fcc.png 273w, /wp-content/uploads/2021/07/cve-fcc-170x300.png 170w" sizes="(max-width: 273px) 100vw, 273px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="272" height="486" src="/wp-content/uploads/2021/07/cve-fccmodel.png" alt="" data-id="152" data-full-url="/wp-content/uploads/2021/07/cve-fccmodel.png" data-link="/?attachment_id=152" class="wp-image-152" srcset="/wp-content/uploads/2021/07/cve-fccmodel.png 272w, /wp-content/uploads/2021/07/cve-fccmodel-168x300.png 168w" sizes="(max-width: 272px) 100vw, 272px" /></figure></li></ul></figure>
+
+
+
+<p>With data and artifacts gathered by Kristin Barry’s immersive class, users of the app can explore 3D models of key buildings commissioned over the years, survey timelines showing when architects were active or buildings were constructed, and meet Columbus’ famous architects – such as Eero Saarinen, I.M. Pei, and Harry Weese.</p>
+
+
+
+<p>After its launch, Virtual Columbus Experience will seek further funding to expand the scope and depth of the project across the community.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/virtual-companion-columbus/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
 			</item>
 		<item>
-		<title>REDgrid Informational Site</title>
-		<link>https://davejrodriguez.github.io/redgrid-informational-site/</link>
-		<pubDate>Mon, 07 Nov 2016 22:38:02 +0000</pubDate>
+		<title>Meet3D</title>
+		<link>/meet3d/</link>
+					<comments>/meet3d/#respond</comments>
+		
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
-				<category><![CDATA[Web Design]]></category>
-		<category><![CDATA[web design]]></category>
+		<pubDate>Thu, 08 Jul 2021 15:05:35 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=140</guid>
 
-		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=94</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[Meet3D is a virtual collaboration space that brings people together to share, learn, and work – wherever they are. Private or public auditoriums, classrooms, conference halls or offices can be joined by any group or audience on demand. Meet3D was developed by the Institute for Digital Intermedia Arts at Ball&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>Meet3D is a virtual collaboration space that brings people together to share, learn, and work – wherever they are. Private or public auditoriums, classrooms, conference halls or offices can be joined by any group or audience on demand. Meet3D was developed by the Institute for Digital Intermedia Arts at Ball State University to bring remote participants together in a common space and facilitate a sense of physical presence. The platform is available in both browser-based and executable versions.</p>
+
+
+
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="512" height="288" src="/wp-content/uploads/2021/07/avatar_selection_2.png" alt="" data-id="141" data-full-url="/wp-content/uploads/2021/07/avatar_selection_2.png" data-link="/?attachment_id=141" class="wp-image-141" srcset="/wp-content/uploads/2021/07/avatar_selection_2.png 512w, /wp-content/uploads/2021/07/avatar_selection_2-300x169.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="512" height="288" src="/wp-content/uploads/2021/07/conference_room.png" alt="" data-id="142" data-full-url="/wp-content/uploads/2021/07/conference_room.png" data-link="/?attachment_id=142" class="wp-image-142" srcset="/wp-content/uploads/2021/07/conference_room.png 512w, /wp-content/uploads/2021/07/conference_room-300x169.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="512" height="288" src="/wp-content/uploads/2021/07/grand_rounds_auditorium1-2.png" alt="" data-id="143" data-full-url="/wp-content/uploads/2021/07/grand_rounds_auditorium1-2.png" data-link="/?attachment_id=143" class="wp-image-143" srcset="/wp-content/uploads/2021/07/grand_rounds_auditorium1-2.png 512w, /wp-content/uploads/2021/07/grand_rounds_auditorium1-2-300x169.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="512" height="288" src="/wp-content/uploads/2021/07/grand_rounds_auditorium2.png" alt="" data-id="144" data-full-url="/wp-content/uploads/2021/07/grand_rounds_auditorium2.png" data-link="/?attachment_id=144" class="wp-image-144" srcset="/wp-content/uploads/2021/07/grand_rounds_auditorium2.png 512w, /wp-content/uploads/2021/07/grand_rounds_auditorium2-300x169.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="512" height="288" src="/wp-content/uploads/2021/07/nursing.png" alt="" data-id="145" data-full-url="/wp-content/uploads/2021/07/nursing.png" data-link="/?attachment_id=145" class="wp-image-145" srcset="/wp-content/uploads/2021/07/nursing.png 512w, /wp-content/uploads/2021/07/nursing-300x169.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="512" height="290" src="/wp-content/uploads/2021/07/virtual_classroom2.png" alt="" data-id="146" data-full-url="/wp-content/uploads/2021/07/virtual_classroom2.png" data-link="/?attachment_id=146" class="wp-image-146" srcset="/wp-content/uploads/2021/07/virtual_classroom2.png 512w, /wp-content/uploads/2021/07/virtual_classroom2-300x170.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure></li></ul></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/meet3d/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
 			</item>
 		<item>
-		<title>Echo Informational Site</title>
-		<link>https://davejrodriguez.github.io/echo-informational-site/</link>
-		<pubDate>Mon, 07 Nov 2016 22:37:27 +0000</pubDate>
+		<title>Sinespace Gallery Designer</title>
+		<link>/sinespace-gallery-designer/</link>
+					<comments>/sinespace-gallery-designer/#respond</comments>
+		
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
-				<category><![CDATA[Web Design]]></category>
-		<category><![CDATA[web design]]></category>
+		<pubDate>Thu, 08 Jul 2021 15:03:42 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=137</guid>
 
-		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=92</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[IDIA Lab has created a virtual gallery design system in partnership with virtual world creator Sinespace. Sinespace, a multi-user virtual world platform based in the UK, contacted IDIA to design this system for their new virtual environment. The Gallery Designer isan easy to use system to dynamically create gallery and museum&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="527" src="/wp-content/uploads/2021/07/Screen-Shot-2020-06-04-at-10.05.21-AM-1024x527-1.png" alt="" class="wp-image-138" srcset="/wp-content/uploads/2021/07/Screen-Shot-2020-06-04-at-10.05.21-AM-1024x527-1.png 1024w, /wp-content/uploads/2021/07/Screen-Shot-2020-06-04-at-10.05.21-AM-1024x527-1-300x154.png 300w, /wp-content/uploads/2021/07/Screen-Shot-2020-06-04-at-10.05.21-AM-1024x527-1-768x395.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>IDIA Lab has created a virtual gallery design system in partnership with virtual world creator <a href="https://sine.space/">Sinespace</a>. Sinespace, a multi-user virtual world platform based in the UK, contacted IDIA to design this system for their new virtual environment. The Gallery Designer isan easy to use system to dynamically create gallery and museum exhibitions on the fly with any web hosted images – creating an exhibition with any images that can be connected to from the internet. Users can easily pick gallery styles (classical/modern), exterior settings, frame style, lighting, floosr, wall color and ceiling treatments – customizing an experience that is complementary to the exhibition theme. The gallery can then be easily published and host a virtual reception with visitors from around the globe.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Sinespace Gallery Designer" width="770" height="433" src="https://www.youtube.com/embed/4dZo8Wy6x4E?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/sinespace-gallery-designer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
 			</item>
 		<item>
-		<title>Fashion Informational Site</title>
-		<link>https://davejrodriguez.github.io/fashion-informational-site/</link>
-		<pubDate>Mon, 07 Nov 2016 22:37:12 +0000</pubDate>
+		<title>Wright Brothers Workshop</title>
+		<link>/wright-brothers-workshop/</link>
+					<comments>/wright-brothers-workshop/#respond</comments>
+		
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
-				<category><![CDATA[Web Design]]></category>
-		<category><![CDATA[web design]]></category>
+		<pubDate>Thu, 08 Jul 2021 15:02:26 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=134</guid>
 
-		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=78</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[IDIA Lab has created a virtual simulation of the Wright Brothers bicycle shop in Dayton, OH for the HTC Vive headset and SteamVR. The environment is a recreation of the Wright Cycle Company, on South Williams Street in Dayton was built in 1886 and is a US National Historic Landmark and on the&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="525" src="/wp-content/uploads/2021/07/Screen-Shot-2020-05-12-at-11.44.08-AM-1024x525-1.png" alt="" class="wp-image-135" srcset="/wp-content/uploads/2021/07/Screen-Shot-2020-05-12-at-11.44.08-AM-1024x525-1.png 1024w, /wp-content/uploads/2021/07/Screen-Shot-2020-05-12-at-11.44.08-AM-1024x525-1-300x154.png 300w, /wp-content/uploads/2021/07/Screen-Shot-2020-05-12-at-11.44.08-AM-1024x525-1-768x394.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>IDIA Lab has created a virtual simulation of the Wright Brothers bicycle shop in Dayton, OH for the <a href="https://www.vive.com/us/">HTC Vive</a> headset and <a href="https://store.steampowered.com/steamvr">SteamVR</a>. The environment is a recreation of the Wright Cycle Company, on South Williams Street in Dayton was built in 1886 and is a US National Historic Landmark and on the National Register of Historic Places. The Wrights occupied this location from 1895-1897. IDIA Lab designed the experience as a virtual field trip where a visitor can pick up and examine highly detailed objects from the shop including letters, tools and inventions created by the Wrights. This project will be published on Steam VR in the coming months.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Wright Brother Bike Shop" width="770" height="433" src="https://www.youtube.com/embed/AYcajYGuZbw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/wright-brothers-workshop/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
 			</item>
 		<item>
-		<title>luvtaps</title>
-		<link>https://davejrodriguez.github.io/luvtaps/</link>
-		<pubDate>Mon, 07 Nov 2016 17:54:40 +0000</pubDate>
+		<title>EVAC+ Virtual Disaster Simulator</title>
+		<link>/evac-virtual-disaster-simulator/</link>
+					<comments>/evac-virtual-disaster-simulator/#respond</comments>
+		
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
-				<category><![CDATA[Web Design]]></category>
-		<category><![CDATA[fitbit]]></category>
-		<category><![CDATA[google calendar]]></category>
-		<category><![CDATA[web design]]></category>
-		<category><![CDATA[web development]]></category>
+		<pubDate>Thu, 08 Jul 2021 15:00:58 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=131</guid>
 
-		<guid isPermaLink="false">https://davejrodriguez.github.io/?p=71</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<div id="pl-71"  class="panel-layout" ><div id="pg-71-0"  class="panel-grid panel-no-style" ><div id="pgc-71-0-0"  class="panel-grid-cell" ><div id="panel-71-0-0-0"class="so-panel widget widget_sow-editor panel-first-child panel-last-child"data-index="0"><div class="so-widget-sow-editor so-widget-sow-editor-base">
-<div class="siteorigin-widget-tinymce textwidget">
-	<p><iframe src="https://www.youtube.com/embed/_mtsCJb-UlU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
-</div>
-</div></div></div></div></div>]]></content:encoded>
+					<description><![CDATA[EVAC+ Virtual Disaster Simulator IDIA Lab&#160;partnered&#160;with physicians at the Seattle Children’s Hospital to develop a virtual simulator to train staff in the case of various disasters. The EVAC+ Virtual Disaster Simulator leverages virtual reality to train health care providers to react quickly and effectively to unexpected events that threaten patient&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="574" src="/wp-content/uploads/2021/07/VirtualHospitalDisaster-1024x574-1.png" alt="" class="wp-image-132" srcset="/wp-content/uploads/2021/07/VirtualHospitalDisaster-1024x574-1.png 1024w, /wp-content/uploads/2021/07/VirtualHospitalDisaster-1024x574-1-300x168.png 300w, /wp-content/uploads/2021/07/VirtualHospitalDisaster-1024x574-1-768x431.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>EVAC+ Virtual Disaster Simulator</strong></p>
+
+
+
+<p>IDIA Lab&nbsp;partnered&nbsp;with physicians at the Seattle Children’s Hospital to develop a virtual simulator to train staff in the case of various disasters.</p>
+
+
+
+<p>The EVAC+ Virtual Disaster Simulator leverages virtual reality to train health care providers to react quickly and effectively to unexpected events that threaten patient safety. It was developed after pilot live simulations, user focus groups, surveys, and a successful pilot of the initial EVAC system.&nbsp;<em>After the need for more communication opportunities and variations in disasters responses was identified in the pilot, EVAC+ was created.&nbsp;</em>&nbsp;EVAC+ leverages the same ability to prepare patient equipment for an evacuation but with significantly more features allowing for interacting with hospital room, other staff, and family members. Upon entering the EVAC+ environment providers are oriented to the virtual space, including navigation, interacting with objects, and how to interact verbally with non-player characters. &nbsp;</p>
+
+
+
+<p>Once they are comfortable with the space they can choose from a menu of disasters to experience, including earthquakes, fire, and an active shooter event. Each simulation has unique objectives around patient protection, equipment packing, and communication with other staff and families. L<em>earners practice how they would provide a status update using the SBAR technique to their charge nurse, use closed loop communication, and respond to anxious family members.&nbsp;</em>&nbsp;</p>
+
+
+
+<p>Pre-determined safety behaviors, such as stopping and resolving a mission critical issue, are prompted and performance recorded for feedback. After each scenario the user is guided through a self-debriefing on how well they performed on key disaster and communication behaviors. Information on how they managed and packed medical equipment is presented along with evidence-based information on how experts would recommend managing equipment. Users can choose to repeat any scenario to practice or refine their responses and can explore the scenarios in any order. &nbsp;</p>
+
+
+
+<p>The Unity3D environment is accessible on web-browsers and head-mounted VR systems. Amazon Web Services (AWS) supports voice communication and real-time analytics. The EVAC+ system fills a unique need for accessible, interactive, sustainable disaster training for healthcare providers.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/evac-virtual-disaster-simulator/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Wishing Well: AI Exhibition in Beijing</title>
+		<link>/wishing-well-ai-exhibition-in-beijing/</link>
+					<comments>/wishing-well-ai-exhibition-in-beijing/#respond</comments>
+		
+		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
+		<pubDate>Thu, 08 Jul 2021 14:59:24 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=120</guid>
+
+					<description><![CDATA[IDIA Lab exhibits Wishing Well at the National Museum of China Wishing Well ( 许愿池 ) creates an environment where visitor’s interaction shapes the substance, meaning and character of the artwork – mediated through art artificial intelligence. Upon engaging the installation, a participant speaks a wish into a pool of&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" src="/wp-content/uploads/2021/07/wishingwell-1024x768-1.jpg" alt="" class="wp-image-129" srcset="/wp-content/uploads/2021/07/wishingwell-1024x768-1.jpg 1024w, /wp-content/uploads/2021/07/wishingwell-1024x768-1-300x225.jpg 300w, /wp-content/uploads/2021/07/wishingwell-1024x768-1-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2>IDIA Lab exhibits Wishing Well at the National Museum of China</h2>
+
+
+
+<p>Wishing Well ( 许愿池 ) creates an environment where visitor’s interaction shapes the substance, meaning and character of the artwork – mediated through art artificial intelligence. Upon engaging the installation, a participant speaks a wish into a pool of water that only they can hear. Their spoken wish is collected by an artificially intelligent set of software and hardware that begins to process the viewer’s hope. There is a technical document attached to the proposal that details the specific flow and technologies, but in essence, once each wish is recorded it is spoken back in a transformed in a poetic manner by text to speech synthesis in a whispering tone. The individual viewer privately hears this once – their wish then is processed to become part of a larger collection of all wishes which can be heard through synthesized voice through directional speakers. The tone of the collection of all wishes is analyzed and affects the processing of the spoken wishes, the ambient sound, and the color and brightness of the light produced above and below the pool.</p>
+
+
+
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="575" src="/wp-content/uploads/2021/07/WishingWell_Info_0000s_0000_Layer-6-1024x575.jpg" alt="" data-id="121" data-full-url="/wp-content/uploads/2021/07/WishingWell_Info_0000s_0000_Layer-6.jpg" data-link="/?attachment_id=121" class="wp-image-121" srcset="/wp-content/uploads/2021/07/WishingWell_Info_0000s_0000_Layer-6-1024x575.jpg 1024w, /wp-content/uploads/2021/07/WishingWell_Info_0000s_0000_Layer-6-300x169.jpg 300w, /wp-content/uploads/2021/07/WishingWell_Info_0000s_0000_Layer-6-768x432.jpg 768w, /wp-content/uploads/2021/07/WishingWell_Info_0000s_0000_Layer-6-1536x863.jpg 1536w, /wp-content/uploads/2021/07/WishingWell_Info_0000s_0000_Layer-6-2048x1151.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2021/07/WishingWell_Info_0000s_0001_Layer-4-1024x576.jpg" alt="" data-id="122" data-full-url="/wp-content/uploads/2021/07/WishingWell_Info_0000s_0001_Layer-4.jpg" data-link="/?attachment_id=122" class="wp-image-122" srcset="/wp-content/uploads/2021/07/WishingWell_Info_0000s_0001_Layer-4-1024x576.jpg 1024w, /wp-content/uploads/2021/07/WishingWell_Info_0000s_0001_Layer-4-300x169.jpg 300w, /wp-content/uploads/2021/07/WishingWell_Info_0000s_0001_Layer-4-768x432.jpg 768w, /wp-content/uploads/2021/07/WishingWell_Info_0000s_0001_Layer-4-1536x864.jpg 1536w, /wp-content/uploads/2021/07/WishingWell_Info_0000s_0001_Layer-4-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="575" src="/wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0000_Layer-1-1024x575.jpg" alt="" data-id="123" data-full-url="/wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0000_Layer-1.jpg" data-link="/?attachment_id=123" class="wp-image-123" srcset="/wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0000_Layer-1-1024x575.jpg 1024w, /wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0000_Layer-1-300x169.jpg 300w, /wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0000_Layer-1-768x432.jpg 768w, /wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0000_Layer-1-1536x863.jpg 1536w, /wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0000_Layer-1-2048x1151.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0001_Background-1024x576.jpg" alt="" data-id="124" data-full-url="/wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0001_Background.jpg" data-link="/?attachment_id=124" class="wp-image-124" srcset="/wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0001_Background-1024x576.jpg 1024w, /wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0001_Background-300x169.jpg 300w, /wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0001_Background-768x432.jpg 768w, /wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0001_Background-1536x864.jpg 1536w, /wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0001_Background-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0000_Layer-8-1024x576.jpg" alt="" data-id="125" data-full-url="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0000_Layer-8.jpg" data-link="/?attachment_id=125" class="wp-image-125" srcset="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0000_Layer-8-1024x576.jpg 1024w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0000_Layer-8-300x169.jpg 300w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0000_Layer-8-768x432.jpg 768w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0000_Layer-8-1536x864.jpg 1536w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0000_Layer-8-2048x1153.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0001_Layer-7-1024x576.jpg" alt="" data-id="126" data-full-url="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0001_Layer-7.jpg" data-link="/?attachment_id=126" class="wp-image-126" srcset="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0001_Layer-7-1024x576.jpg 1024w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0001_Layer-7-300x169.jpg 300w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0001_Layer-7-768x432.jpg 768w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0001_Layer-7-1536x864.jpg 1536w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0001_Layer-7-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0000_Layer-1-1024x576.jpg" alt="" data-id="127" data-full-url="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0000_Layer-1.jpg" data-link="/?attachment_id=127" class="wp-image-127" srcset="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0000_Layer-1-1024x576.jpg 1024w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0000_Layer-1-300x169.jpg 300w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0000_Layer-1-768x432.jpg 768w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0000_Layer-1-1536x864.jpg 1536w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0000_Layer-1-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0001_Background-1024x576.jpg" alt="" data-id="128" data-full-url="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0001_Background.jpg" data-link="/?attachment_id=128" class="wp-image-128" srcset="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0001_Background-1024x576.jpg 1024w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0001_Background-300x169.jpg 300w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0001_Background-768x432.jpg 768w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0001_Background-1536x864.jpg 1536w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0001_Background-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+
+
+
+<p>Wishing Well ( 许愿池 ) engages both private and public spaces in the creation of a simultaneously intimate and collective social experience. The tone of the wishes aggregated by the system is processed anonymously and delivered into this social sculpture via synthesized whispered voice spoken in Mandarin. The water pool, or wishing well, is vibrated by a speaker underneath creating a three-dimensional dynamic sound wave image of the actual wish. Virtual lanterns will appear overhead on two flat screen monitors with each wish and will launch skyward to become part of the larger collection of dreams.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/wishing-well-ai-exhibition-in-beijing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Apollo 11 VR on Steam</title>
+		<link>/apollo-11-vr-on-steam/</link>
+					<comments>/apollo-11-vr-on-steam/#respond</comments>
+		
+		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
+		<pubDate>Thu, 08 Jul 2021 14:56:36 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=118</guid>
+
+					<description><![CDATA[Apollo 11 VR is a first person experience of the interior of the 1969 Command Module. Explore the cockpit firsthand in an authentic model of the interior based on scans from the Smithsonian. This is the 50th anniversary of the historic landing where Buzz Aldrin and Neal Armstrong walked on&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-video"><video controls src="https://steamcdn-a.akamaihd.net/steam/apps/256755943/movie480.webm?t=1563452995"></video></figure>
+
+
+
+<p>Apollo 11 VR is a first person experience of the interior of the 1969 Command Module. Explore the cockpit firsthand in an authentic model of the interior based on scans from the Smithsonian. This is the 50th anniversary of the historic landing where Buzz Aldrin and Neal Armstrong walked on the surface of the moon on a site name Tranquility Base.&nbsp;</p>
+
+
+
+<h2>The Spacecraft</h2>
+
+
+
+<p>The Apollo spacecraft had three parts: a command module (CM) with a cabin for the three astronauts, and the only part that returned to Earth; a service module (SM), which supported the command module with propulsion, electrical power, oxygen, and water; and a lunar module (LM) that had two stages – a descent stage for landing on the Moon, and an ascent stage to place the astronauts back into lunar orbit. The astronauts used Eagle’s ascent stage to lift off from the lunar surface and rejoin Collins in the command module. They jettisoned Eagle before they performed the maneuvers that propelled the ship out of the last of its 30 lunar orbits on a trajectory back to Earth. They returned to Earth and splashed down in the Pacific Ocean on July 24 after more than eight days in space.</p>
+
+
+
+<p>Armstrong’s first step onto the lunar surface was broadcast on live TV to a worldwide audience. He described the event as “one small step for man, one giant leap for mankind.”</p>
+
+
+
+<p><a href="https://store.steampowered.com/app/1120410/Apollo_11_VR/?beta=0">Download on Steam</a></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/apollo-11-vr-on-steam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://steamcdn-a.akamaihd.net/steam/apps/256755943/movie480.webm?t=1563452995" length="7256796" type="video/webm" />
+
 			</item>
 	</channel>
 </rss>

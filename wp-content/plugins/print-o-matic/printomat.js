@@ -1,8 +1,8 @@
 /*!
- * Print-O-Matic JavaScript v1.8.4
+ * Print-O-Matic JavaScript v1.8.12
  * http://plugins.twinpictures.de/plugins/print-o-matic/
  *
- * Copyright 2017, Twinpictures
+ * Copyright 2019, Twinpictures
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -38,9 +38,9 @@ jQuery(document).ready(function() {
 			target = jQuery(this).next();
 		}
 
-		var w = window.open('', 'printomatic print page', 'status=no, toolbar=no, menubar=no, location=no');
-		var print_html = '<!DOCTYPE html><html><head><title>' + document.getElementsByTagName('title')[0].innerHTML + '</title>';
+		var w = window.open('', '_blank');
 
+		var print_html = '<!DOCTYPE html><html><head><title>' + document.getElementsByTagName('title')[0].innerHTML + '</title>';
 		if ( typeof print_data != 'undefined' && typeof print_data[id] != 'undefined'){
 
 			if ( 'pom_site_css' in print_data[id] && print_data[id]['pom_site_css'] ){
@@ -52,6 +52,7 @@ jQuery(document).ready(function() {
 			}
 
 			//build the blank page
+			w.document.open();
 			w.document.write( print_html + '</head><body></body></html>');
 
 			if ( 'pom_do_not_print' in print_data[id] && print_data[id]['pom_do_not_print'] ){
@@ -81,7 +82,8 @@ jQuery(document).ready(function() {
 			//there is a bug in Edge where no nested elements can be appended.
 			jQuery( target ).each(function(){
 				var s = jQuery.trim( jQuery( this ).clone( true ).html() );
-				jQuery( w.document.body ).append( s );
+				//The follwing solution is brought to you by reviver.lt
+				jQuery( w.document.body ).append( "<div>" + s + "</div>" );
 			});
 		}
 		else{
@@ -115,13 +117,28 @@ jQuery(document).ready(function() {
 						if(elem_name.length){
 							named_elements = w.document.getElementsByName(elem_name);
 							named_elements[0].value = user_val;
+
 						}
+					}
+				}
+			});
+
+			//select values?
+			jQuery( target ).find('select').each(function(i) {
+				console.log('found one: ' + i);
+				var sel_val = jQuery(this).val();
+				console.log('value is: ' + sel_val);
+				if(sel_val){
+					var elem_id = jQuery(this).attr('id');
+					if(elem_id){
+						w.document.getElementById(elem_id).value = sel_val;
 					}
 				}
 			});
 		}
 
 		/* hardcodeed iframe and if so, force a pause... pro version offers more options */
+
 		iframe = jQuery(w.document).find('iframe');
 		if (iframe.length && typeof print_data != 'undefined' && typeof print_data[id] != 'undefined') {
             if('pom_pause_time' in print_data[id] && print_data[id]['pom_pause_time'] < 3000){
@@ -140,10 +157,25 @@ jQuery(document).ready(function() {
 		}
 
 		function printIt(){
+			//w.document.close();
+			//console.log('try and print');
 			w.focus();
-			w.print();
+			setTimeout(function () {
+				try {
+					w.document.execCommand('print', false, null);
+				} finally {
+					w.print();
+				}
+				
+			}, 500);
+
 			if('pom_close_after_print' in print_data[id] && print_data[id]['pom_close_after_print'] == '1'){
-				w.close();
+				//need a bit of a pause to let safari on iOS render the print privew properly
+				setTimeout(
+					function() {
+						w.close()
+					}, 1000
+				);
 			}
 		}
 
