@@ -15,7 +15,7 @@
 	<link rel="icon" href="/wp-content/uploads/2021/07/cropped-cropped-logo-192x192-1-32x32.png" sizes="32x32">
 <link rel="icon" href="/wp-content/uploads/2021/07/cropped-cropped-logo-192x192-1-192x192.png" sizes="192x192">
 <link rel="apple-touch-icon" href="/wp-content/uploads/2021/07/cropped-cropped-logo-192x192-1-180x180.png">
-<meta name="msapplication-TileImage" content="http://localhost/davejrodriguez/wp-content/uploads/2021/07/cropped-cropped-logo-192x192-1-270x270.png">
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2021/07/cropped-cropped-logo-192x192-1-270x270.png">
 	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-en-us">
 	<script type="text/javascript">
@@ -42,7 +42,7 @@
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> <label for="rememberme">Remember Me</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In">
-									<input type="hidden" name="redirect_to" value="http://localhost/davejrodriguez/wp-admin/">
+									<input type="hidden" name="redirect_to" value="/wp-admin/">
 									<input type="hidden" name="testcookie" value="1">
 			</p>
 		</form>
@@ -61,13 +61,13 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 <script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
 <script type="text/javascript" id="zxcvbn-async-js-extra">
 /* <![CDATA[ */
-var _zxcvbnSettings = {"src":"http:\/\/localhost\/davejrodriguez\/wp-includes\/js\/zxcvbn.min.js"};
+var _zxcvbnSettings = {"src":"\/wp-includes\/js\/zxcvbn.min.js"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
 <script type="text/javascript" src="/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4" id="wp-polyfill-js"></script>
 <script type="text/javascript" id="wp-polyfill-js-after">
-( 'fetch' in window ) || document.write( '<script src="http://localhost/davejrodriguez/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"><\/scr' + 'ipt>' );( document.contains ) || document.write( '<script src="http://localhost/davejrodriguez/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"><\/scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="http://localhost/davejrodriguez/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"><\/scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="http://localhost/davejrodriguez/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"><\/scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="http://localhost/davejrodriguez/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"><\/scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="http://localhost/davejrodriguez/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"><\/scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="http://localhost/davejrodriguez/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"><\/scr' + 'ipt>' );
+( 'fetch' in window ) || document.write( '<script src="/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"><\/scr' + 'ipt>' );( document.contains ) || document.write( '<script src="/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"><\/scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"><\/scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"><\/scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"><\/scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"><\/scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"><\/scr' + 'ipt>' );
 </script>
 <script type="text/javascript" src="/wp-includes/js/dist/hooks.min.js?ver=50e23bed88bcb9e6e14023e9961698c1" id="wp-hooks-js"></script>
 <script type="text/javascript" src="/wp-includes/js/dist/i18n.min.js?ver=db9a9a37da262883343e941c3731bc67" id="wp-i18n-js"></script>
@@ -96,7 +96,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/davejrodriguez\/wp-admin\/admin-ajax.php
 <script type="text/javascript" src="/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"1ecc3b2e0d"};
+var userProfileL10n = {"user_id":"0","nonce":"3776c2d522"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
