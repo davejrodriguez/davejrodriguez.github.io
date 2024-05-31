@@ -12,13 +12,13 @@
 	<atom:link href="/author/davejrodriguez/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Unity C# Developer</description>
-	<lastBuildDate>Thu, 08 Jul 2021 15:22:31 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 31 May 2024 14:18:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
 	<url>/wp-content/uploads/2021/07/cropped-cropped-logo-192x192-1-32x32.png</url>
@@ -28,13 +28,213 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Game Jams</title>
+		<link>/game-jams/</link>
+		
+		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
+		<pubDate>Fri, 31 May 2024 12:08:41 +0000</pubDate>
+				<category><![CDATA[EducationXR]]></category>
+		<guid isPermaLink="false">/?p=215</guid>
+
+					<description><![CDATA[Every once in a while, employees at EducationXR would take a break from their normal tasks for 24-48 hours to collaborate on a game jam using our EducationXR platform. We saw this as a way of dogfooding the platform. Many useful insights were gained from these activities.]]></description>
+										<content:encoded><![CDATA[
+<p>Every once in a while, employees at EducationXR would take a break from their normal tasks for 24-48 hours to collaborate on a game jam using our EducationXR platform. We saw this as a way of dogfooding the platform. Many useful insights were gained from these activities.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="EducationXR Game Jam: Blast Pray Die" width="770" height="433" src="https://www.youtube.com/embed/ZZJKzFdA8PM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption">This game jam centered around the theme of &#8220;mobility&#8221;. I developed much of the functionality of &#8220;Blast. Pray. Die.&#8221;, a cooperative, VR-first 3D space shooter.</figcaption></figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="EducationXR Game Jam: Haremageddon" width="770" height="433" src="https://www.youtube.com/embed/fGxdZM848gY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption">This game jam centered around the theme of &#8220;scale&#8221;. I developed much of the functionality of &#8220;Haremageddon&#8221;, a cooperative, resource-gathering game where the goal is to cultivate the largest carrot possible to feed the largest rabbit possible.</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Passthrough</title>
+		<link>/passthrough/</link>
+		
+		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
+		<pubDate>Fri, 31 May 2024 11:56:33 +0000</pubDate>
+				<category><![CDATA[EducationXR]]></category>
+		<guid isPermaLink="false">/?p=212</guid>
+
+					<description><![CDATA[Passthrough support allowed our clients to publish and experience mixed-reality content for VR headsets on the EducationXR platform. I led the development of this feature.]]></description>
+										<content:encoded><![CDATA[
+<p>Passthrough support allowed our clients to publish and experience mixed-reality content for VR headsets on the EducationXR platform. I led the development of this feature.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="EducationXR - Passthrough" width="770" height="433" src="https://www.youtube.com/embed/16hOGpybtnU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Single Sign-On</title>
+		<link>/single-sign-on/</link>
+		
+		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
+		<pubDate>Fri, 31 May 2024 11:54:17 +0000</pubDate>
+				<category><![CDATA[EducationXR]]></category>
+		<guid isPermaLink="false">/?p=210</guid>
+
+					<description><![CDATA[Single sign-on reduced the need for users to create yet another password when they already have an account through a supported provider. I led the development of this feature in the viewer apps and Caffeine.]]></description>
+										<content:encoded><![CDATA[
+<p>Single sign-on reduced the need for users to create yet another password when they already have an account through a supported provider. I led the development of this feature in the viewer apps and Caffeine. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="EducationXR: Single Sign-On" width="770" height="433" src="https://www.youtube.com/embed/SoYVxfqinKw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>EducationXR</title>
+		<link>/educationxr/</link>
+		
+		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
+		<pubDate>Wed, 29 May 2024 18:54:09 +0000</pubDate>
+				<category><![CDATA[EducationXR]]></category>
+		<guid isPermaLink="false">/?p=193</guid>
+
+					<description><![CDATA[EducationXR is an extended reality (XR) platform that addresses creation, deployment, and distribution of immersive content to all phones, tablets, desktops, and VR headsets. The platform comprises of three main parts: My responsibilities as the Senior Unity Developer laid primarily in the Caffeine package and the viewer applications. Over my&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="592" src="/wp-content/uploads/2024/05/educationxr-1024x592.png" alt="" class="wp-image-194" srcset="/wp-content/uploads/2024/05/educationxr-1024x592.png 1024w, /wp-content/uploads/2024/05/educationxr-300x173.png 300w, /wp-content/uploads/2024/05/educationxr-768x444.png 768w, /wp-content/uploads/2024/05/educationxr-1536x888.png 1536w, /wp-content/uploads/2024/05/educationxr.png 1586w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>EducationXR is an extended reality (XR) platform that addresses creation, deployment, and distribution of immersive content to all phones, tablets, desktops, and VR headsets.</p>
+
+
+
+<p>The platform comprises of three main parts:</p>
+
+
+
+<ol>
+<li> A Unity package called Caffeine that allows creators to design, publish, and test their EducationXR content from the Unity editor with ease</li>
+
+
+
+<li>Viewer applications to consume a creator&#8217;s EducationXR content on multiple platforms (Windows, Mac, iOS, Android, Oculus Quest, PCVR, Pico, and VisionPro)</li>
+
+
+
+<li>A website to manage a creator&#8217;s organization, users, roles, and content.</li>
+</ol>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="EducationXR: Create Train Publish" width="770" height="433" src="https://www.youtube.com/embed/Tw2YuBQYh78?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>My responsibilities as the Senior Unity Developer laid primarily in the Caffeine package and the viewer applications. Over my nearly 3 years at EducationXR, I led development on many features:</p>
+
+
+
+<ul>
+<li>web view integration</li>
+
+
+
+<li>single sign-on authentication</li>
+
+
+
+<li>code authentication</li>
+
+
+
+<li>account deletion</li>
+
+
+
+<li>gradual sign-on and registration</li>
+
+
+
+<li>PDF attachments</li>
+
+
+
+<li>URL attachments</li>
+
+
+
+<li>VR Passthrough</li>
+
+
+
+<li>Visual scripting node development</li>
+
+
+
+<li>material optimizer</li>
+
+
+
+<li>performance debugger</li>
+
+
+
+<li>and many more</li>
+</ul>
+
+
+
+<p>Additionally, I collaborated closely with our development team, participated in company game jams as a form of dogfooding, contributed greatly to UI/UX overhauls, and submitted countless bug fixes.</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-2 is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="542" data-id="200" src="/wp-content/uploads/2024/05/educationxr2-1024x542.png" alt="I implemented single sign-on (SSO) and revamped the authentication UI/UX to make signing in and registration a unified and seamless process. The user can input their email. If an account exists, they may enter a password. If not, they automatically begin the create account wizard. Additionally, if their email is from a domain of an SSO provider we support, they are prompted to sign in through the provider." class="wp-image-200" srcset="/wp-content/uploads/2024/05/educationxr2-1024x542.png 1024w, /wp-content/uploads/2024/05/educationxr2-300x159.png 300w, /wp-content/uploads/2024/05/educationxr2-768x407.png 768w, /wp-content/uploads/2024/05/educationxr2-1536x813.png 1536w, /wp-content/uploads/2024/05/educationxr2.png 1917w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">I implemented single sign-on (SSO) and revamped the authentication UI/UX to make signing in and registration a unified and seamless process. The user can input their email. If an account exists, they may enter a password. If not, they automatically begin the create account wizard. Additionally, if their email is from a domain of an SSO provider we support, they are prompted to sign in through the provider.</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="542" data-id="202" src="/wp-content/uploads/2024/05/educationxr3-1-1024x542.png" alt="I implemented the UI/UX and API interface for code generation. If the user is already signed in somewhere else, perhaps on the website or another application, they can choose to generate a code that can be authorized in one of their active sessions. Once authorized, they are automatically logged in as the authenticating user." class="wp-image-202" srcset="/wp-content/uploads/2024/05/educationxr3-1-1024x542.png 1024w, /wp-content/uploads/2024/05/educationxr3-1-300x159.png 300w, /wp-content/uploads/2024/05/educationxr3-1-768x406.png 768w, /wp-content/uploads/2024/05/educationxr3-1-1536x812.png 1536w, /wp-content/uploads/2024/05/educationxr3-1.png 1919w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">I implemented the UI/UX and API interface for code generation. If the user is already signed in somewhere else, perhaps on the website or another application, they can choose to generate a code that can be authorized in one of their active sessions. Once authorized, they are automatically logged in as the authenticating user.</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="543" data-id="201" src="/wp-content/uploads/2024/05/educationxr4-1024x543.png" alt="I implemented the UI/UX and API interface for code authentication. A user can authenticate a code from another application to authorize that application to sign in as their active session user." class="wp-image-201" srcset="/wp-content/uploads/2024/05/educationxr4-1024x543.png 1024w, /wp-content/uploads/2024/05/educationxr4-300x159.png 300w, /wp-content/uploads/2024/05/educationxr4-768x407.png 768w, /wp-content/uploads/2024/05/educationxr4-1536x814.png 1536w, /wp-content/uploads/2024/05/educationxr4.png 1919w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">I implemented the UI/UX and API interface for code authentication. A user can authenticate a code from another application to authorize that application to sign in as their active session user.</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="780" height="543" data-id="198" src="/wp-content/uploads/2024/05/educationxr-flow.png" alt="Flow, our visual scripting language, could be used by creators to add rich interactivity to their content. I contributed to the development of dozens of nodes." class="wp-image-198" srcset="/wp-content/uploads/2024/05/educationxr-flow.png 780w, /wp-content/uploads/2024/05/educationxr-flow-300x209.png 300w, /wp-content/uploads/2024/05/educationxr-flow-768x535.png 768w" sizes="(max-width: 780px) 100vw, 780px" /><figcaption class="wp-element-caption">Flow, our visual scripting language, could be used by creators to add rich interactivity to their content. I contributed to the development of dozens of nodes.</figcaption></figure>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>CAVE</title>
 		<link>/cave/</link>
 					<comments>/cave/#respond</comments>
 		
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 		<pubDate>Thu, 08 Jul 2021 15:18:03 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[IDIA Lab]]></category>
 		<guid isPermaLink="false">/?p=158</guid>
 
 					<description><![CDATA[CAVE is an immersive 270° panorama screen primarily used for presentations to large groups of students.&#160;OmniFocus projection&#160;maximizes the shadow-free zone in our installation of&#160;the Elumenati‘s&#160;8m GeoDome Panorama, so up to 40 people can share the space. Without headsets, the shared space sets the stage for spontaneous interactions with the content&#8230; ]]></description>
@@ -47,7 +247,7 @@
 
 
 
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="768" src="/wp-content/uploads/2021/07/IMG_4705-scaled-1-1024x768.jpg" alt="" data-id="159" data-full-url="/wp-content/uploads/2021/07/IMG_4705-scaled-1.jpg" data-link="/?attachment_id=159" class="wp-image-159" srcset="/wp-content/uploads/2021/07/IMG_4705-scaled-1-1024x768.jpg 1024w, /wp-content/uploads/2021/07/IMG_4705-scaled-1-300x225.jpg 300w, /wp-content/uploads/2021/07/IMG_4705-scaled-1-768x576.jpg 768w, /wp-content/uploads/2021/07/IMG_4705-scaled-1-1536x1152.jpg 1536w, /wp-content/uploads/2021/07/IMG_4705-scaled-1-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="768" src="/wp-content/uploads/2021/07/IMG_4706-scaled-1-1024x768.jpg" alt="" data-id="160" data-full-url="/wp-content/uploads/2021/07/IMG_4706-scaled-1.jpg" data-link="/?attachment_id=160" class="wp-image-160" srcset="/wp-content/uploads/2021/07/IMG_4706-scaled-1-1024x768.jpg 1024w, /wp-content/uploads/2021/07/IMG_4706-scaled-1-300x225.jpg 300w, /wp-content/uploads/2021/07/IMG_4706-scaled-1-768x576.jpg 768w, /wp-content/uploads/2021/07/IMG_4706-scaled-1-1536x1152.jpg 1536w, /wp-content/uploads/2021/07/IMG_4706-scaled-1-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="768" src="/wp-content/uploads/2021/07/IMG_4711-scaled-1-1024x768.jpg" alt="" data-id="161" data-full-url="/wp-content/uploads/2021/07/IMG_4711-scaled-1.jpg" data-link="/?attachment_id=161" class="wp-image-161" srcset="/wp-content/uploads/2021/07/IMG_4711-scaled-1-1024x768.jpg 1024w, /wp-content/uploads/2021/07/IMG_4711-scaled-1-300x225.jpg 300w, /wp-content/uploads/2021/07/IMG_4711-scaled-1-768x576.jpg 768w, /wp-content/uploads/2021/07/IMG_4711-scaled-1-1536x1152.jpg 1536w, /wp-content/uploads/2021/07/IMG_4711-scaled-1-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="768" src="/wp-content/uploads/2021/07/IMG_4714-scaled-1-1024x768.jpg" alt="" data-id="162" data-full-url="/wp-content/uploads/2021/07/IMG_4714-scaled-1.jpg" data-link="/?attachment_id=162" class="wp-image-162" srcset="/wp-content/uploads/2021/07/IMG_4714-scaled-1-1024x768.jpg 1024w, /wp-content/uploads/2021/07/IMG_4714-scaled-1-300x225.jpg 300w, /wp-content/uploads/2021/07/IMG_4714-scaled-1-768x576.jpg 768w, /wp-content/uploads/2021/07/IMG_4714-scaled-1-1536x1152.jpg 1536w, /wp-content/uploads/2021/07/IMG_4714-scaled-1-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="768" src="/wp-content/uploads/2021/07/IMG_4717-scaled-1-1024x768.jpg" alt="" data-id="163" data-full-url="/wp-content/uploads/2021/07/IMG_4717-scaled-1.jpg" data-link="/?attachment_id=163" class="wp-image-163" srcset="/wp-content/uploads/2021/07/IMG_4717-scaled-1-1024x768.jpg 1024w, /wp-content/uploads/2021/07/IMG_4717-scaled-1-300x225.jpg 300w, /wp-content/uploads/2021/07/IMG_4717-scaled-1-768x576.jpg 768w, /wp-content/uploads/2021/07/IMG_4717-scaled-1-1536x1152.jpg 1536w, /wp-content/uploads/2021/07/IMG_4717-scaled-1-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/07/IMG_4705-scaled-1-1024x768.jpg" alt="" data-id="159" data-full-url="/wp-content/uploads/2021/07/IMG_4705-scaled-1.jpg" data-link="/?attachment_id=159" class="wp-image-159" srcset="/wp-content/uploads/2021/07/IMG_4705-scaled-1-1024x768.jpg 1024w, /wp-content/uploads/2021/07/IMG_4705-scaled-1-300x225.jpg 300w, /wp-content/uploads/2021/07/IMG_4705-scaled-1-768x576.jpg 768w, /wp-content/uploads/2021/07/IMG_4705-scaled-1-1536x1152.jpg 1536w, /wp-content/uploads/2021/07/IMG_4705-scaled-1-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/07/IMG_4706-scaled-1-1024x768.jpg" alt="" data-id="160" data-full-url="/wp-content/uploads/2021/07/IMG_4706-scaled-1.jpg" data-link="/?attachment_id=160" class="wp-image-160" srcset="/wp-content/uploads/2021/07/IMG_4706-scaled-1-1024x768.jpg 1024w, /wp-content/uploads/2021/07/IMG_4706-scaled-1-300x225.jpg 300w, /wp-content/uploads/2021/07/IMG_4706-scaled-1-768x576.jpg 768w, /wp-content/uploads/2021/07/IMG_4706-scaled-1-1536x1152.jpg 1536w, /wp-content/uploads/2021/07/IMG_4706-scaled-1-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/07/IMG_4711-scaled-1-1024x768.jpg" alt="" data-id="161" data-full-url="/wp-content/uploads/2021/07/IMG_4711-scaled-1.jpg" data-link="/?attachment_id=161" class="wp-image-161" srcset="/wp-content/uploads/2021/07/IMG_4711-scaled-1-1024x768.jpg 1024w, /wp-content/uploads/2021/07/IMG_4711-scaled-1-300x225.jpg 300w, /wp-content/uploads/2021/07/IMG_4711-scaled-1-768x576.jpg 768w, /wp-content/uploads/2021/07/IMG_4711-scaled-1-1536x1152.jpg 1536w, /wp-content/uploads/2021/07/IMG_4711-scaled-1-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/07/IMG_4714-scaled-1-1024x768.jpg" alt="" data-id="162" data-full-url="/wp-content/uploads/2021/07/IMG_4714-scaled-1.jpg" data-link="/?attachment_id=162" class="wp-image-162" srcset="/wp-content/uploads/2021/07/IMG_4714-scaled-1-1024x768.jpg 1024w, /wp-content/uploads/2021/07/IMG_4714-scaled-1-300x225.jpg 300w, /wp-content/uploads/2021/07/IMG_4714-scaled-1-768x576.jpg 768w, /wp-content/uploads/2021/07/IMG_4714-scaled-1-1536x1152.jpg 1536w, /wp-content/uploads/2021/07/IMG_4714-scaled-1-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="768" src="/wp-content/uploads/2021/07/IMG_4717-scaled-1-1024x768.jpg" alt="" data-id="163" data-full-url="/wp-content/uploads/2021/07/IMG_4717-scaled-1.jpg" data-link="/?attachment_id=163" class="wp-image-163" srcset="/wp-content/uploads/2021/07/IMG_4717-scaled-1-1024x768.jpg 1024w, /wp-content/uploads/2021/07/IMG_4717-scaled-1-300x225.jpg 300w, /wp-content/uploads/2021/07/IMG_4717-scaled-1-768x576.jpg 768w, /wp-content/uploads/2021/07/IMG_4717-scaled-1-1536x1152.jpg 1536w, /wp-content/uploads/2021/07/IMG_4717-scaled-1-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
 
 
 
@@ -66,7 +266,7 @@
 		
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 		<pubDate>Thu, 08 Jul 2021 15:09:13 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[IDIA Lab]]></category>
 		<guid isPermaLink="false">/?p=156</guid>
 
 					<description><![CDATA[College of Architecture and Planning’s IDIA Lab creates technological innovation in the arts, sciences, and humanities. The Lab engages students, staff, scholars and clients in collaborative projects including 3D, virtual reality and mobile applications. This newsletter includes updates on current IDIA Lab projects including an augmented reality visitor experience application&#8230; ]]></description>
@@ -130,7 +330,7 @@
 		
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 		<pubDate>Thu, 08 Jul 2021 15:08:41 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[IDIA Lab]]></category>
 		<guid isPermaLink="false">/?p=154</guid>
 
 					<description><![CDATA[The interplay of art and science—a concept at least as old as Leonardo da Vinci—is the focus of “Engaging Technology II,” an exhibition at Ball State University’s David Owsley Museum of Art which ran September 28, 2017 through December 22, 2017. Museum patrons experienced a selection of work from internationally&#8230; ]]></description>
@@ -188,7 +388,7 @@
 		
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 		<pubDate>Thu, 08 Jul 2021 15:07:25 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[IDIA Lab]]></category>
 		<guid isPermaLink="false">/?p=148</guid>
 
 					<description><![CDATA[IDIA Lab – in collaboration with BSU Assistant Professor of Architecture, Kristin Barry – has&#160; designed the cultural heritage mobile application, Virtual Columbus Experience – allowing users to virtually tour the rich architectural history of Columbus, Indiana. This locative mobile app was produced with fellowship support of Ball State University’s&#160;Digital&#8230; ]]></description>
@@ -201,7 +401,7 @@
 
 
 
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="271" height="485" src="/wp-content/uploads/2021/07/cve.png" alt="" data-id="149" data-full-url="/wp-content/uploads/2021/07/cve.png" data-link="/?attachment_id=149" class="wp-image-149" srcset="/wp-content/uploads/2021/07/cve.png 271w, /wp-content/uploads/2021/07/cve-168x300.png 168w" sizes="(max-width: 271px) 100vw, 271px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="276" height="486" src="/wp-content/uploads/2021/07/cve-eliel.png" alt="" data-id="150" data-full-url="/wp-content/uploads/2021/07/cve-eliel.png" data-link="/?attachment_id=150" class="wp-image-150" srcset="/wp-content/uploads/2021/07/cve-eliel.png 276w, /wp-content/uploads/2021/07/cve-eliel-170x300.png 170w" sizes="(max-width: 276px) 100vw, 276px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="273" height="482" src="/wp-content/uploads/2021/07/cve-fcc.png" alt="" data-id="151" data-full-url="/wp-content/uploads/2021/07/cve-fcc.png" data-link="/?attachment_id=151" class="wp-image-151" srcset="/wp-content/uploads/2021/07/cve-fcc.png 273w, /wp-content/uploads/2021/07/cve-fcc-170x300.png 170w" sizes="(max-width: 273px) 100vw, 273px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="272" height="486" src="/wp-content/uploads/2021/07/cve-fccmodel.png" alt="" data-id="152" data-full-url="/wp-content/uploads/2021/07/cve-fccmodel.png" data-link="/?attachment_id=152" class="wp-image-152" srcset="/wp-content/uploads/2021/07/cve-fccmodel.png 272w, /wp-content/uploads/2021/07/cve-fccmodel-168x300.png 168w" sizes="(max-width: 272px) 100vw, 272px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="271" height="485" src="/wp-content/uploads/2021/07/cve.png" alt="" data-id="149" data-full-url="/wp-content/uploads/2021/07/cve.png" data-link="/?attachment_id=149" class="wp-image-149" srcset="/wp-content/uploads/2021/07/cve.png 271w, /wp-content/uploads/2021/07/cve-168x300.png 168w" sizes="(max-width: 271px) 100vw, 271px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="276" height="486" src="/wp-content/uploads/2021/07/cve-eliel.png" alt="" data-id="150" data-full-url="/wp-content/uploads/2021/07/cve-eliel.png" data-link="/?attachment_id=150" class="wp-image-150" srcset="/wp-content/uploads/2021/07/cve-eliel.png 276w, /wp-content/uploads/2021/07/cve-eliel-170x300.png 170w" sizes="(max-width: 276px) 100vw, 276px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="273" height="482" src="/wp-content/uploads/2021/07/cve-fcc.png" alt="" data-id="151" data-full-url="/wp-content/uploads/2021/07/cve-fcc.png" data-link="/?attachment_id=151" class="wp-image-151" srcset="/wp-content/uploads/2021/07/cve-fcc.png 273w, /wp-content/uploads/2021/07/cve-fcc-170x300.png 170w" sizes="(max-width: 273px) 100vw, 273px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="272" height="486" src="/wp-content/uploads/2021/07/cve-fccmodel.png" alt="" data-id="152" data-full-url="/wp-content/uploads/2021/07/cve-fccmodel.png" data-link="/?attachment_id=152" class="wp-image-152" srcset="/wp-content/uploads/2021/07/cve-fccmodel.png 272w, /wp-content/uploads/2021/07/cve-fccmodel-168x300.png 168w" sizes="(max-width: 272px) 100vw, 272px" /></figure></li></ul></figure>
 
 
 
@@ -224,7 +424,7 @@
 		
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 		<pubDate>Thu, 08 Jul 2021 15:05:35 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[IDIA Lab]]></category>
 		<guid isPermaLink="false">/?p=140</guid>
 
 					<description><![CDATA[Meet3D is a virtual collaboration space that brings people together to share, learn, and work – wherever they are. Private or public auditoriums, classrooms, conference halls or offices can be joined by any group or audience on demand. Meet3D was developed by the Institute for Digital Intermedia Arts at Ball&#8230; ]]></description>
@@ -233,7 +433,7 @@
 
 
 
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="512" height="288" src="/wp-content/uploads/2021/07/avatar_selection_2.png" alt="" data-id="141" data-full-url="/wp-content/uploads/2021/07/avatar_selection_2.png" data-link="/?attachment_id=141" class="wp-image-141" srcset="/wp-content/uploads/2021/07/avatar_selection_2.png 512w, /wp-content/uploads/2021/07/avatar_selection_2-300x169.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="512" height="288" src="/wp-content/uploads/2021/07/conference_room.png" alt="" data-id="142" data-full-url="/wp-content/uploads/2021/07/conference_room.png" data-link="/?attachment_id=142" class="wp-image-142" srcset="/wp-content/uploads/2021/07/conference_room.png 512w, /wp-content/uploads/2021/07/conference_room-300x169.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="512" height="288" src="/wp-content/uploads/2021/07/grand_rounds_auditorium1-2.png" alt="" data-id="143" data-full-url="/wp-content/uploads/2021/07/grand_rounds_auditorium1-2.png" data-link="/?attachment_id=143" class="wp-image-143" srcset="/wp-content/uploads/2021/07/grand_rounds_auditorium1-2.png 512w, /wp-content/uploads/2021/07/grand_rounds_auditorium1-2-300x169.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="512" height="288" src="/wp-content/uploads/2021/07/grand_rounds_auditorium2.png" alt="" data-id="144" data-full-url="/wp-content/uploads/2021/07/grand_rounds_auditorium2.png" data-link="/?attachment_id=144" class="wp-image-144" srcset="/wp-content/uploads/2021/07/grand_rounds_auditorium2.png 512w, /wp-content/uploads/2021/07/grand_rounds_auditorium2-300x169.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="512" height="288" src="/wp-content/uploads/2021/07/nursing.png" alt="" data-id="145" data-full-url="/wp-content/uploads/2021/07/nursing.png" data-link="/?attachment_id=145" class="wp-image-145" srcset="/wp-content/uploads/2021/07/nursing.png 512w, /wp-content/uploads/2021/07/nursing-300x169.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="512" height="290" src="/wp-content/uploads/2021/07/virtual_classroom2.png" alt="" data-id="146" data-full-url="/wp-content/uploads/2021/07/virtual_classroom2.png" data-link="/?attachment_id=146" class="wp-image-146" srcset="/wp-content/uploads/2021/07/virtual_classroom2.png 512w, /wp-content/uploads/2021/07/virtual_classroom2-300x170.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="512" height="288" src="/wp-content/uploads/2021/07/avatar_selection_2.png" alt="" data-id="141" data-full-url="/wp-content/uploads/2021/07/avatar_selection_2.png" data-link="/?attachment_id=141" class="wp-image-141" srcset="/wp-content/uploads/2021/07/avatar_selection_2.png 512w, /wp-content/uploads/2021/07/avatar_selection_2-300x169.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="512" height="288" src="/wp-content/uploads/2021/07/conference_room.png" alt="" data-id="142" data-full-url="/wp-content/uploads/2021/07/conference_room.png" data-link="/?attachment_id=142" class="wp-image-142" srcset="/wp-content/uploads/2021/07/conference_room.png 512w, /wp-content/uploads/2021/07/conference_room-300x169.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="512" height="288" src="/wp-content/uploads/2021/07/grand_rounds_auditorium1-2.png" alt="" data-id="143" data-full-url="/wp-content/uploads/2021/07/grand_rounds_auditorium1-2.png" data-link="/?attachment_id=143" class="wp-image-143" srcset="/wp-content/uploads/2021/07/grand_rounds_auditorium1-2.png 512w, /wp-content/uploads/2021/07/grand_rounds_auditorium1-2-300x169.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="512" height="288" src="/wp-content/uploads/2021/07/grand_rounds_auditorium2.png" alt="" data-id="144" data-full-url="/wp-content/uploads/2021/07/grand_rounds_auditorium2.png" data-link="/?attachment_id=144" class="wp-image-144" srcset="/wp-content/uploads/2021/07/grand_rounds_auditorium2.png 512w, /wp-content/uploads/2021/07/grand_rounds_auditorium2-300x169.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="512" height="288" src="/wp-content/uploads/2021/07/nursing.png" alt="" data-id="145" data-full-url="/wp-content/uploads/2021/07/nursing.png" data-link="/?attachment_id=145" class="wp-image-145" srcset="/wp-content/uploads/2021/07/nursing.png 512w, /wp-content/uploads/2021/07/nursing-300x169.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="512" height="290" src="/wp-content/uploads/2021/07/virtual_classroom2.png" alt="" data-id="146" data-full-url="/wp-content/uploads/2021/07/virtual_classroom2.png" data-link="/?attachment_id=146" class="wp-image-146" srcset="/wp-content/uploads/2021/07/virtual_classroom2.png 512w, /wp-content/uploads/2021/07/virtual_classroom2-300x170.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure></li></ul></figure>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/meet3d/feed/</wfw:commentRss>
@@ -248,12 +448,12 @@
 		
 		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
 		<pubDate>Thu, 08 Jul 2021 15:03:42 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[IDIA Lab]]></category>
 		<guid isPermaLink="false">/?p=137</guid>
 
 					<description><![CDATA[IDIA Lab has created a virtual gallery design system in partnership with virtual world creator Sinespace. Sinespace, a multi-user virtual world platform based in the UK, contacted IDIA to design this system for their new virtual environment. The Gallery Designer isan easy to use system to dynamically create gallery and museum&#8230; ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="527" src="/wp-content/uploads/2021/07/Screen-Shot-2020-06-04-at-10.05.21-AM-1024x527-1.png" alt="" class="wp-image-138" srcset="/wp-content/uploads/2021/07/Screen-Shot-2020-06-04-at-10.05.21-AM-1024x527-1.png 1024w, /wp-content/uploads/2021/07/Screen-Shot-2020-06-04-at-10.05.21-AM-1024x527-1-300x154.png 300w, /wp-content/uploads/2021/07/Screen-Shot-2020-06-04-at-10.05.21-AM-1024x527-1-768x395.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="527" src="/wp-content/uploads/2021/07/Screen-Shot-2020-06-04-at-10.05.21-AM-1024x527-1.png" alt="" class="wp-image-138" srcset="/wp-content/uploads/2021/07/Screen-Shot-2020-06-04-at-10.05.21-AM-1024x527-1.png 1024w, /wp-content/uploads/2021/07/Screen-Shot-2020-06-04-at-10.05.21-AM-1024x527-1-300x154.png 300w, /wp-content/uploads/2021/07/Screen-Shot-2020-06-04-at-10.05.21-AM-1024x527-1-768x395.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -270,161 +470,6 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
-		<item>
-		<title>Wright Brothers Workshop</title>
-		<link>/wright-brothers-workshop/</link>
-					<comments>/wright-brothers-workshop/#respond</comments>
-		
-		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
-		<pubDate>Thu, 08 Jul 2021 15:02:26 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=134</guid>
-
-					<description><![CDATA[IDIA Lab has created a virtual simulation of the Wright Brothers bicycle shop in Dayton, OH for the HTC Vive headset and SteamVR. The environment is a recreation of the Wright Cycle Company, on South Williams Street in Dayton was built in 1886 and is a US National Historic Landmark and on the&#8230; ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="525" src="/wp-content/uploads/2021/07/Screen-Shot-2020-05-12-at-11.44.08-AM-1024x525-1.png" alt="" class="wp-image-135" srcset="/wp-content/uploads/2021/07/Screen-Shot-2020-05-12-at-11.44.08-AM-1024x525-1.png 1024w, /wp-content/uploads/2021/07/Screen-Shot-2020-05-12-at-11.44.08-AM-1024x525-1-300x154.png 300w, /wp-content/uploads/2021/07/Screen-Shot-2020-05-12-at-11.44.08-AM-1024x525-1-768x394.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>IDIA Lab has created a virtual simulation of the Wright Brothers bicycle shop in Dayton, OH for the <a href="https://www.vive.com/us/">HTC Vive</a> headset and <a href="https://store.steampowered.com/steamvr">SteamVR</a>. The environment is a recreation of the Wright Cycle Company, on South Williams Street in Dayton was built in 1886 and is a US National Historic Landmark and on the National Register of Historic Places. The Wrights occupied this location from 1895-1897. IDIA Lab designed the experience as a virtual field trip where a visitor can pick up and examine highly detailed objects from the shop including letters, tools and inventions created by the Wrights. This project will be published on Steam VR in the coming months.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Wright Brother Bike Shop" width="770" height="433" src="https://www.youtube.com/embed/AYcajYGuZbw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></figure>
-]]></content:encoded>
-					
-					<wfw:commentRss>/wright-brothers-workshop/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>EVAC+ Virtual Disaster Simulator</title>
-		<link>/evac-virtual-disaster-simulator/</link>
-					<comments>/evac-virtual-disaster-simulator/#respond</comments>
-		
-		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
-		<pubDate>Thu, 08 Jul 2021 15:00:58 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=131</guid>
-
-					<description><![CDATA[EVAC+ Virtual Disaster Simulator IDIA Lab&#160;partnered&#160;with physicians at the Seattle Children’s Hospital to develop a virtual simulator to train staff in the case of various disasters. The EVAC+ Virtual Disaster Simulator leverages virtual reality to train health care providers to react quickly and effectively to unexpected events that threaten patient&#8230; ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="574" src="/wp-content/uploads/2021/07/VirtualHospitalDisaster-1024x574-1.png" alt="" class="wp-image-132" srcset="/wp-content/uploads/2021/07/VirtualHospitalDisaster-1024x574-1.png 1024w, /wp-content/uploads/2021/07/VirtualHospitalDisaster-1024x574-1-300x168.png 300w, /wp-content/uploads/2021/07/VirtualHospitalDisaster-1024x574-1-768x431.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p><strong>EVAC+ Virtual Disaster Simulator</strong></p>
-
-
-
-<p>IDIA Lab&nbsp;partnered&nbsp;with physicians at the Seattle Children’s Hospital to develop a virtual simulator to train staff in the case of various disasters.</p>
-
-
-
-<p>The EVAC+ Virtual Disaster Simulator leverages virtual reality to train health care providers to react quickly and effectively to unexpected events that threaten patient safety. It was developed after pilot live simulations, user focus groups, surveys, and a successful pilot of the initial EVAC system.&nbsp;<em>After the need for more communication opportunities and variations in disasters responses was identified in the pilot, EVAC+ was created.&nbsp;</em>&nbsp;EVAC+ leverages the same ability to prepare patient equipment for an evacuation but with significantly more features allowing for interacting with hospital room, other staff, and family members. Upon entering the EVAC+ environment providers are oriented to the virtual space, including navigation, interacting with objects, and how to interact verbally with non-player characters. &nbsp;</p>
-
-
-
-<p>Once they are comfortable with the space they can choose from a menu of disasters to experience, including earthquakes, fire, and an active shooter event. Each simulation has unique objectives around patient protection, equipment packing, and communication with other staff and families. L<em>earners practice how they would provide a status update using the SBAR technique to their charge nurse, use closed loop communication, and respond to anxious family members.&nbsp;</em>&nbsp;</p>
-
-
-
-<p>Pre-determined safety behaviors, such as stopping and resolving a mission critical issue, are prompted and performance recorded for feedback. After each scenario the user is guided through a self-debriefing on how well they performed on key disaster and communication behaviors. Information on how they managed and packed medical equipment is presented along with evidence-based information on how experts would recommend managing equipment. Users can choose to repeat any scenario to practice or refine their responses and can explore the scenarios in any order. &nbsp;</p>
-
-
-
-<p>The Unity3D environment is accessible on web-browsers and head-mounted VR systems. Amazon Web Services (AWS) supports voice communication and real-time analytics. The EVAC+ system fills a unique need for accessible, interactive, sustainable disaster training for healthcare providers.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/evac-virtual-disaster-simulator/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Wishing Well: AI Exhibition in Beijing</title>
-		<link>/wishing-well-ai-exhibition-in-beijing/</link>
-					<comments>/wishing-well-ai-exhibition-in-beijing/#respond</comments>
-		
-		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
-		<pubDate>Thu, 08 Jul 2021 14:59:24 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=120</guid>
-
-					<description><![CDATA[IDIA Lab exhibits Wishing Well at the National Museum of China Wishing Well ( 许愿池 ) creates an environment where visitor’s interaction shapes the substance, meaning and character of the artwork – mediated through art artificial intelligence. Upon engaging the installation, a participant speaks a wish into a pool of&#8230; ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" src="/wp-content/uploads/2021/07/wishingwell-1024x768-1.jpg" alt="" class="wp-image-129" srcset="/wp-content/uploads/2021/07/wishingwell-1024x768-1.jpg 1024w, /wp-content/uploads/2021/07/wishingwell-1024x768-1-300x225.jpg 300w, /wp-content/uploads/2021/07/wishingwell-1024x768-1-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<h2>IDIA Lab exhibits Wishing Well at the National Museum of China</h2>
-
-
-
-<p>Wishing Well ( 许愿池 ) creates an environment where visitor’s interaction shapes the substance, meaning and character of the artwork – mediated through art artificial intelligence. Upon engaging the installation, a participant speaks a wish into a pool of water that only they can hear. Their spoken wish is collected by an artificially intelligent set of software and hardware that begins to process the viewer’s hope. There is a technical document attached to the proposal that details the specific flow and technologies, but in essence, once each wish is recorded it is spoken back in a transformed in a poetic manner by text to speech synthesis in a whispering tone. The individual viewer privately hears this once – their wish then is processed to become part of a larger collection of all wishes which can be heard through synthesized voice through directional speakers. The tone of the collection of all wishes is analyzed and affects the processing of the spoken wishes, the ambient sound, and the color and brightness of the light produced above and below the pool.</p>
-
-
-
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="575" src="/wp-content/uploads/2021/07/WishingWell_Info_0000s_0000_Layer-6-1024x575.jpg" alt="" data-id="121" data-full-url="/wp-content/uploads/2021/07/WishingWell_Info_0000s_0000_Layer-6.jpg" data-link="/?attachment_id=121" class="wp-image-121" srcset="/wp-content/uploads/2021/07/WishingWell_Info_0000s_0000_Layer-6-1024x575.jpg 1024w, /wp-content/uploads/2021/07/WishingWell_Info_0000s_0000_Layer-6-300x169.jpg 300w, /wp-content/uploads/2021/07/WishingWell_Info_0000s_0000_Layer-6-768x432.jpg 768w, /wp-content/uploads/2021/07/WishingWell_Info_0000s_0000_Layer-6-1536x863.jpg 1536w, /wp-content/uploads/2021/07/WishingWell_Info_0000s_0000_Layer-6-2048x1151.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2021/07/WishingWell_Info_0000s_0001_Layer-4-1024x576.jpg" alt="" data-id="122" data-full-url="/wp-content/uploads/2021/07/WishingWell_Info_0000s_0001_Layer-4.jpg" data-link="/?attachment_id=122" class="wp-image-122" srcset="/wp-content/uploads/2021/07/WishingWell_Info_0000s_0001_Layer-4-1024x576.jpg 1024w, /wp-content/uploads/2021/07/WishingWell_Info_0000s_0001_Layer-4-300x169.jpg 300w, /wp-content/uploads/2021/07/WishingWell_Info_0000s_0001_Layer-4-768x432.jpg 768w, /wp-content/uploads/2021/07/WishingWell_Info_0000s_0001_Layer-4-1536x864.jpg 1536w, /wp-content/uploads/2021/07/WishingWell_Info_0000s_0001_Layer-4-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="575" src="/wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0000_Layer-1-1024x575.jpg" alt="" data-id="123" data-full-url="/wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0000_Layer-1.jpg" data-link="/?attachment_id=123" class="wp-image-123" srcset="/wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0000_Layer-1-1024x575.jpg 1024w, /wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0000_Layer-1-300x169.jpg 300w, /wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0000_Layer-1-768x432.jpg 768w, /wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0000_Layer-1-1536x863.jpg 1536w, /wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0000_Layer-1-2048x1151.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0001_Background-1024x576.jpg" alt="" data-id="124" data-full-url="/wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0001_Background.jpg" data-link="/?attachment_id=124" class="wp-image-124" srcset="/wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0001_Background-1024x576.jpg 1024w, /wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0001_Background-300x169.jpg 300w, /wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0001_Background-768x432.jpg 768w, /wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0001_Background-1536x864.jpg 1536w, /wp-content/uploads/2021/07/WishingWell_Info_0001s_0000_Renders_0001_Background-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0000_Layer-8-1024x576.jpg" alt="" data-id="125" data-full-url="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0000_Layer-8.jpg" data-link="/?attachment_id=125" class="wp-image-125" srcset="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0000_Layer-8-1024x576.jpg 1024w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0000_Layer-8-300x169.jpg 300w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0000_Layer-8-768x432.jpg 768w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0000_Layer-8-1536x864.jpg 1536w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0000_Layer-8-2048x1153.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0001_Layer-7-1024x576.jpg" alt="" data-id="126" data-full-url="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0001_Layer-7.jpg" data-link="/?attachment_id=126" class="wp-image-126" srcset="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0001_Layer-7-1024x576.jpg 1024w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0001_Layer-7-300x169.jpg 300w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0001_Layer-7-768x432.jpg 768w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0001_Layer-7-1536x864.jpg 1536w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0001_Layer-7-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0000_Layer-1-1024x576.jpg" alt="" data-id="127" data-full-url="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0000_Layer-1.jpg" data-link="/?attachment_id=127" class="wp-image-127" srcset="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0000_Layer-1-1024x576.jpg 1024w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0000_Layer-1-300x169.jpg 300w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0000_Layer-1-768x432.jpg 768w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0000_Layer-1-1536x864.jpg 1536w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0000_Layer-1-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="576" src="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0001_Background-1024x576.jpg" alt="" data-id="128" data-full-url="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0001_Background.jpg" data-link="/?attachment_id=128" class="wp-image-128" srcset="/wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0001_Background-1024x576.jpg 1024w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0001_Background-300x169.jpg 300w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0001_Background-768x432.jpg 768w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0001_Background-1536x864.jpg 1536w, /wp-content/uploads/2021/07/WishingWell_Info_0002s_0002_Renders-2_0001_Background-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
-
-
-
-<p>Wishing Well ( 许愿池 ) engages both private and public spaces in the creation of a simultaneously intimate and collective social experience. The tone of the wishes aggregated by the system is processed anonymously and delivered into this social sculpture via synthesized whispered voice spoken in Mandarin. The water pool, or wishing well, is vibrated by a speaker underneath creating a three-dimensional dynamic sound wave image of the actual wish. Virtual lanterns will appear overhead on two flat screen monitors with each wish and will launch skyward to become part of the larger collection of dreams.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/wishing-well-ai-exhibition-in-beijing/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Apollo 11 VR on Steam</title>
-		<link>/apollo-11-vr-on-steam/</link>
-					<comments>/apollo-11-vr-on-steam/#respond</comments>
-		
-		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
-		<pubDate>Thu, 08 Jul 2021 14:56:36 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=118</guid>
-
-					<description><![CDATA[Apollo 11 VR is a first person experience of the interior of the 1969 Command Module. Explore the cockpit firsthand in an authentic model of the interior based on scans from the Smithsonian. This is the 50th anniversary of the historic landing where Buzz Aldrin and Neal Armstrong walked on&#8230; ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-video"><video controls src="https://steamcdn-a.akamaihd.net/steam/apps/256755943/movie480.webm?t=1563452995"></video></figure>
-
-
-
-<p>Apollo 11 VR is a first person experience of the interior of the 1969 Command Module. Explore the cockpit firsthand in an authentic model of the interior based on scans from the Smithsonian. This is the 50th anniversary of the historic landing where Buzz Aldrin and Neal Armstrong walked on the surface of the moon on a site name Tranquility Base.&nbsp;</p>
-
-
-
-<h2>The Spacecraft</h2>
-
-
-
-<p>The Apollo spacecraft had three parts: a command module (CM) with a cabin for the three astronauts, and the only part that returned to Earth; a service module (SM), which supported the command module with propulsion, electrical power, oxygen, and water; and a lunar module (LM) that had two stages – a descent stage for landing on the Moon, and an ascent stage to place the astronauts back into lunar orbit. The astronauts used Eagle’s ascent stage to lift off from the lunar surface and rejoin Collins in the command module. They jettisoned Eagle before they performed the maneuvers that propelled the ship out of the last of its 30 lunar orbits on a trajectory back to Earth. They returned to Earth and splashed down in the Pacific Ocean on July 24 after more than eight days in space.</p>
-
-
-
-<p>Armstrong’s first step onto the lunar surface was broadcast on live TV to a worldwide audience. He described the event as “one small step for man, one giant leap for mankind.”</p>
-
-
-
-<p><a href="https://store.steampowered.com/app/1120410/Apollo_11_VR/?beta=0">Download on Steam</a></p>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/apollo-11-vr-on-steam/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		<enclosure url="https://steamcdn-a.akamaihd.net/steam/apps/256755943/movie480.webm?t=1563452995" length="7256796" type="video/webm" />
-
 			</item>
 	</channel>
 </rss>

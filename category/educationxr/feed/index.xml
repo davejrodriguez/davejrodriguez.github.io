@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>EducationXR &#8211; Dave J Rodriguez</title>
+	<atom:link href="/category/educationxr/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Unity C# Developer</description>
+	<lastBuildDate>Fri, 31 May 2024 14:18:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-cropped-logo-192x192-1-32x32.png</url>
+	<title>EducationXR &#8211; Dave J Rodriguez</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Game Jams</title>
+		<link>/game-jams/</link>
+		
+		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
+		<pubDate>Fri, 31 May 2024 12:08:41 +0000</pubDate>
+				<category><![CDATA[EducationXR]]></category>
+		<guid isPermaLink="false">/?p=215</guid>
+
+					<description><![CDATA[Every once in a while, employees at EducationXR would take a break from their normal tasks for 24-48 hours to collaborate on a game jam using our EducationXR platform. We saw this as a way of dogfooding the platform. Many useful insights were gained from these activities.]]></description>
+										<content:encoded><![CDATA[
+<p>Every once in a while, employees at EducationXR would take a break from their normal tasks for 24-48 hours to collaborate on a game jam using our EducationXR platform. We saw this as a way of dogfooding the platform. Many useful insights were gained from these activities.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="EducationXR Game Jam: Blast Pray Die" width="770" height="433" src="https://www.youtube.com/embed/ZZJKzFdA8PM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption">This game jam centered around the theme of &#8220;mobility&#8221;. I developed much of the functionality of &#8220;Blast. Pray. Die.&#8221;, a cooperative, VR-first 3D space shooter.</figcaption></figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="EducationXR Game Jam: Haremageddon" width="770" height="433" src="https://www.youtube.com/embed/fGxdZM848gY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption">This game jam centered around the theme of &#8220;scale&#8221;. I developed much of the functionality of &#8220;Haremageddon&#8221;, a cooperative, resource-gathering game where the goal is to cultivate the largest carrot possible to feed the largest rabbit possible.</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Passthrough</title>
+		<link>/passthrough/</link>
+		
+		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
+		<pubDate>Fri, 31 May 2024 11:56:33 +0000</pubDate>
+				<category><![CDATA[EducationXR]]></category>
+		<guid isPermaLink="false">/?p=212</guid>
+
+					<description><![CDATA[Passthrough support allowed our clients to publish and experience mixed-reality content for VR headsets on the EducationXR platform. I led the development of this feature.]]></description>
+										<content:encoded><![CDATA[
+<p>Passthrough support allowed our clients to publish and experience mixed-reality content for VR headsets on the EducationXR platform. I led the development of this feature.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="EducationXR - Passthrough" width="770" height="433" src="https://www.youtube.com/embed/16hOGpybtnU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Single Sign-On</title>
+		<link>/single-sign-on/</link>
+		
+		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
+		<pubDate>Fri, 31 May 2024 11:54:17 +0000</pubDate>
+				<category><![CDATA[EducationXR]]></category>
+		<guid isPermaLink="false">/?p=210</guid>
+
+					<description><![CDATA[Single sign-on reduced the need for users to create yet another password when they already have an account through a supported provider. I led the development of this feature in the viewer apps and Caffeine.]]></description>
+										<content:encoded><![CDATA[
+<p>Single sign-on reduced the need for users to create yet another password when they already have an account through a supported provider. I led the development of this feature in the viewer apps and Caffeine. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="EducationXR: Single Sign-On" width="770" height="433" src="https://www.youtube.com/embed/SoYVxfqinKw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>EducationXR</title>
+		<link>/educationxr/</link>
+		
+		<dc:creator><![CDATA[davejrodriguez]]></dc:creator>
+		<pubDate>Wed, 29 May 2024 18:54:09 +0000</pubDate>
+				<category><![CDATA[EducationXR]]></category>
+		<guid isPermaLink="false">/?p=193</guid>
+
+					<description><![CDATA[EducationXR is an extended reality (XR) platform that addresses creation, deployment, and distribution of immersive content to all phones, tablets, desktops, and VR headsets. The platform comprises of three main parts: My responsibilities as the Senior Unity Developer laid primarily in the Caffeine package and the viewer applications. Over my&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="592" src="/wp-content/uploads/2024/05/educationxr-1024x592.png" alt="" class="wp-image-194" srcset="/wp-content/uploads/2024/05/educationxr-1024x592.png 1024w, /wp-content/uploads/2024/05/educationxr-300x173.png 300w, /wp-content/uploads/2024/05/educationxr-768x444.png 768w, /wp-content/uploads/2024/05/educationxr-1536x888.png 1536w, /wp-content/uploads/2024/05/educationxr.png 1586w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>EducationXR is an extended reality (XR) platform that addresses creation, deployment, and distribution of immersive content to all phones, tablets, desktops, and VR headsets.</p>
+
+
+
+<p>The platform comprises of three main parts:</p>
+
+
+
+<ol>
+<li> A Unity package called Caffeine that allows creators to design, publish, and test their EducationXR content from the Unity editor with ease</li>
+
+
+
+<li>Viewer applications to consume a creator&#8217;s EducationXR content on multiple platforms (Windows, Mac, iOS, Android, Oculus Quest, PCVR, Pico, and VisionPro)</li>
+
+
+
+<li>A website to manage a creator&#8217;s organization, users, roles, and content.</li>
+</ol>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="EducationXR: Create Train Publish" width="770" height="433" src="https://www.youtube.com/embed/Tw2YuBQYh78?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>My responsibilities as the Senior Unity Developer laid primarily in the Caffeine package and the viewer applications. Over my nearly 3 years at EducationXR, I led development on many features:</p>
+
+
+
+<ul>
+<li>web view integration</li>
+
+
+
+<li>single sign-on authentication</li>
+
+
+
+<li>code authentication</li>
+
+
+
+<li>account deletion</li>
+
+
+
+<li>gradual sign-on and registration</li>
+
+
+
+<li>PDF attachments</li>
+
+
+
+<li>URL attachments</li>
+
+
+
+<li>VR Passthrough</li>
+
+
+
+<li>Visual scripting node development</li>
+
+
+
+<li>material optimizer</li>
+
+
+
+<li>performance debugger</li>
+
+
+
+<li>and many more</li>
+</ul>
+
+
+
+<p>Additionally, I collaborated closely with our development team, participated in company game jams as a form of dogfooding, contributed greatly to UI/UX overhauls, and submitted countless bug fixes.</p>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-2 is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="542" data-id="200" src="/wp-content/uploads/2024/05/educationxr2-1024x542.png" alt="I implemented single sign-on (SSO) and revamped the authentication UI/UX to make signing in and registration a unified and seamless process. The user can input their email. If an account exists, they may enter a password. If not, they automatically begin the create account wizard. Additionally, if their email is from a domain of an SSO provider we support, they are prompted to sign in through the provider." class="wp-image-200" srcset="/wp-content/uploads/2024/05/educationxr2-1024x542.png 1024w, /wp-content/uploads/2024/05/educationxr2-300x159.png 300w, /wp-content/uploads/2024/05/educationxr2-768x407.png 768w, /wp-content/uploads/2024/05/educationxr2-1536x813.png 1536w, /wp-content/uploads/2024/05/educationxr2.png 1917w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">I implemented single sign-on (SSO) and revamped the authentication UI/UX to make signing in and registration a unified and seamless process. The user can input their email. If an account exists, they may enter a password. If not, they automatically begin the create account wizard. Additionally, if their email is from a domain of an SSO provider we support, they are prompted to sign in through the provider.</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="542" data-id="202" src="/wp-content/uploads/2024/05/educationxr3-1-1024x542.png" alt="I implemented the UI/UX and API interface for code generation. If the user is already signed in somewhere else, perhaps on the website or another application, they can choose to generate a code that can be authorized in one of their active sessions. Once authorized, they are automatically logged in as the authenticating user." class="wp-image-202" srcset="/wp-content/uploads/2024/05/educationxr3-1-1024x542.png 1024w, /wp-content/uploads/2024/05/educationxr3-1-300x159.png 300w, /wp-content/uploads/2024/05/educationxr3-1-768x406.png 768w, /wp-content/uploads/2024/05/educationxr3-1-1536x812.png 1536w, /wp-content/uploads/2024/05/educationxr3-1.png 1919w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">I implemented the UI/UX and API interface for code generation. If the user is already signed in somewhere else, perhaps on the website or another application, they can choose to generate a code that can be authorized in one of their active sessions. Once authorized, they are automatically logged in as the authenticating user.</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="543" data-id="201" src="/wp-content/uploads/2024/05/educationxr4-1024x543.png" alt="I implemented the UI/UX and API interface for code authentication. A user can authenticate a code from another application to authorize that application to sign in as their active session user." class="wp-image-201" srcset="/wp-content/uploads/2024/05/educationxr4-1024x543.png 1024w, /wp-content/uploads/2024/05/educationxr4-300x159.png 300w, /wp-content/uploads/2024/05/educationxr4-768x407.png 768w, /wp-content/uploads/2024/05/educationxr4-1536x814.png 1536w, /wp-content/uploads/2024/05/educationxr4.png 1919w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">I implemented the UI/UX and API interface for code authentication. A user can authenticate a code from another application to authorize that application to sign in as their active session user.</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="780" height="543" data-id="198" src="/wp-content/uploads/2024/05/educationxr-flow.png" alt="Flow, our visual scripting language, could be used by creators to add rich interactivity to their content. I contributed to the development of dozens of nodes." class="wp-image-198" srcset="/wp-content/uploads/2024/05/educationxr-flow.png 780w, /wp-content/uploads/2024/05/educationxr-flow-300x209.png 300w, /wp-content/uploads/2024/05/educationxr-flow-768x535.png 768w" sizes="(max-width: 780px) 100vw, 780px" /><figcaption class="wp-element-caption">Flow, our visual scripting language, could be used by creators to add rich interactivity to their content. I contributed to the development of dozens of nodes.</figcaption></figure>
+</figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
